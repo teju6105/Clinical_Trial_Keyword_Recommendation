@@ -1,0 +1,23 @@
+IMPROVED CONTENT-BASED RECOMMENDATION REPORT
+================================================
+Trials processed: 1000
+Title weight: 0.4
+Conditions weight: 0.35
+Summary weight: 0.25
+Minimum similarity threshold: 0.05
+Maximum neighbors: 10
+Maximum recommendations: 10
+
+Method:
+1. Represent title, conditions, and summary separately using TF-IDF.
+2. Calculate cosine similarity for each field.
+3. Combine similarities using fixed exploratory weights.
+4. Exclude neighbors below the exploratory threshold.
+5. Rank unseen keywords by summed neighbor similarity.
+
+Limitations:
+This output is exploratory, not a validated recommendation model.
+The threshold and weights have not been tuned on validation data.
+Lexical similarity does not guarantee clinical relevance.
+This script fits TF-IDF on the full dataset; do not use its output
+as leakage-free evaluation. Evaluate using training-only fitting.

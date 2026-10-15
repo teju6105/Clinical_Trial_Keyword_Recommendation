@@ -1,0 +1,25 @@
+ORIGINAL VS IMPROVED CONTENT-BASED EVALUATION
+=================================================
+Eligible trials: 553
+Training trials: 442
+Test trials: 111
+Seed: 42
+Improved title weight: 0.4
+Improved conditions weight: 0.35
+Improved summary weight: 0.25
+Improved minimum similarity: 0.0
+Original TF-IDF vocabulary: 30000
+Improved title vocabulary: 5075
+Improved conditions vocabulary: 2085
+Improved summary vocabulary: 20000
+
+                        precision_at_5  recall_at_5  ndcg_at_5
+model                                                         
+improved_content_based          0.0126       0.0541     0.0561
+original_content_based          0.0180       0.0676     0.0614
+
+Limitations:
+- The two models use the same split and hidden labels.
+- Both models use training descriptions and training keywords only.
+- The improved weights and threshold are exploratory, not tuned.
+- Metrics evaluate recorded-keyword recovery, not clinical validity.

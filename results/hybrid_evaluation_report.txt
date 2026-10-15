@@ -1,0 +1,23 @@
+FOUR-MODEL COMPARISON
+===================================
+Eligible trials: 553
+Training trials: 442
+Test trials: 111
+Training keyword vocabulary: 1960
+TF-IDF vocabulary: 30000
+Seed: 42
+Hybrid weights: content=0.7, collaborative=0.3
+
+                         precision_at_5  recall_at_5  ndcg_at_5
+model                                                          
+collaborative_filtering          0.0018       0.0045     0.0055
+content_based                    0.0180       0.0676     0.0614
+frequency_baseline               0.0054       0.0180     0.0101
+hybrid                           0.0162       0.0631     0.0586
+
+Interpretation cautions:
+- All models use the same test cases and hidden keywords in this run.
+- All models are fitted from training data only.
+- Missing recorded keywords are not assumed to be negative labels.
+- Metrics measure recovery of recorded keywords, not clinical validity.
+- Hybrid weights are fixed exploratory values, not validation-tuned.

@@ -1,0 +1,223 @@
+nct_id,model,hidden_keywords,recommended_keywords,neighbor_count,precision_at_5,recall_at_5,ndcg_at_5
+NCT07733635,original_content_based,bronchial asthma; spirometry,asthma; airway remodelling; airway smooth muscle; eosinophils; extracellular matrix,10,0.0,0.0,0.0
+NCT07733635,improved_content_based,bronchial asthma; spirometry,asthma; allergen challenge; airway remodelling; airway smooth muscle; eosinophils,10,0.0,0.0,0.0
+NCT03756025,original_content_based,early childhood caries; glass ionomer cement,behavior change; cardiovascular health; community-based; early childhood education; family-based,10,0.0,0.0,0.0
+NCT03756025,improved_content_based,early childhood caries; glass ionomer cement,composite; restorations; art; induction of ovulation; perinatal mortality,10,0.0,0.0,0.0
+NCT04752176,original_content_based,medical device,quality of life; fdg; lung cancer; pet/ct; respiratory synchronization,10,0.0,0.0,0.0
+NCT04752176,improved_content_based,medical device,breast feeding; education; high fidelity simulation training; midwifery; simulation,10,0.0,0.0,0.0
+NCT06699576,original_content_based,phase 1b; soft tissue sarcoma,adc; antibody-drug conjugate; cancer; duocarmycin; her2,10,0.0,0.0,0.0
+NCT06699576,improved_content_based,phase 1b; soft tissue sarcoma,ewing's sarcoma; immunotherapy; interleukin-2; rhabdomyosarcoma; tumor vaccine,10,0.0,0.0,0.0
+NCT07267676,original_content_based,dental anxiety,music; nicu; premature infants; premature neonates; preterm infants,10,0.0,0.0,0.0
+NCT07267676,improved_content_based,dental anxiety,surgery; midazolam; premedication; preoperative anxiety; music,10,0.0,0.0,0.0
+NCT00118976,original_content_based,albuminuria,diabetic retinopathy; diabetic eye disease; diabetic macular edema; intensive medical therapy; islet cell transplantation,10,0.0,0.0,0.0
+NCT00118976,improved_content_based,albuminuria,diabetes mellitus; insulin pump; diabetes mellitus type 1; hybrid closed loop system; minimed 670g,10,0.0,0.0,0.0
+NCT03615976,original_content_based,arthroscopy,total knee arthroplasty; femoral nerve block; local infiltration analgesia; 4 in 1 block; adductor canal block,10,0.0,0.0,0.0
+NCT03615976,improved_content_based,arthroscopy,pain; femoral nerve block; local infiltration analgesia; total knee arthroplasty; collaborative care,10,0.0,0.0,0.0
+NCT03374917,original_content_based,levodopa,alpha-synuclein; mk-0947; neurodegeneration; α-synuclein; exercise,10,0.0,0.0,0.0
+NCT03374917,improved_content_based,levodopa,alpha-synuclein; mk-0947; neurodegeneration; α-synuclein; exercise,10,0.0,0.0,0.0
+NCT07397117,original_content_based,lumbar radiculopathy,femoral nerve block; regional anesthesia; brachial plexus block; protective nerve stimulation; sciatic nerve block,10,0.0,0.0,0.0
+NCT07397117,improved_content_based,lumbar radiculopathy,"leukemia; ahf,; relax-ahf-eu; renal impairment; rlx030,",10,0.0,0.0,0.0
+NCT03489317,original_content_based,stool,exercise; overweight; obesity; children and adolescents; metabolic syndrome,10,0.0,0.0,0.0
+NCT03489317,improved_content_based,stool,obesity; children and adolescents; exercise; metabolic syndrome; overweight,10,0.0,0.0,0.0
+NCT00388817,original_content_based,adherence; costs,adherence; high blood pressure; quality of life; randomized controlled trial; combination therapy,10,0.2,0.5,0.6131471927654584
+NCT00388817,improved_content_based,adherence; costs,adherence; quality of life; high blood pressure; combination therapy; crossover design,10,0.2,0.5,0.6131471927654584
+NCT07319117,original_content_based,l-theanine; magnesium; rhodiola,5 new formulation; bioequivalent; food effect; pharmacodynamic; pharmacokinetics,10,0.0,0.0,0.0
+NCT07319117,improved_content_based,l-theanine; magnesium; rhodiola,cancer; caregiving; distress; emotion regulation; inflammation,10,0.0,0.0,0.0
+NCT05065840,original_content_based,vaccination,hiv; immunogenicity; safety; antiretrovirals; cervical cancer,10,0.0,0.0,0.0
+NCT05065840,improved_content_based,vaccination,immunogenicity; safety; hiv; vaccine; antiretrovirals,10,0.0,0.0,0.0
+NCT01743040,original_content_based,cadence; nuclear stress test,acute coronary syndrome; chest pain; computed tomography coronary angiography; emergency room; stress echocardiography,10,0.0,0.0,0.0
+NCT01743040,improved_content_based,cadence; nuclear stress test,des; left main; pci; bfpet; myocardial perfusion imaging,10,0.0,0.0,0.0
+NCT01923389,original_content_based,intravenous; multiple dose,tolerability; pharmacokinetics; first time in human; healthy volunteer; azd5213 phase 1,10,0.0,0.0,0.0
+NCT01923389,improved_content_based,intravenous; multiple dose,diabetes mellitus; insulin pump; diabetes mellitus type 1; hybrid closed loop system; minimed 670g,10,0.0,0.0,0.0
+NCT04015089,original_content_based,partially hydrolized protein infant formula,"child´s health; microbiota; prebiota; infant; infant, newborn",10,0.0,0.0,0.0
+NCT04015089,improved_content_based,partially hydrolized protein infant formula,"infant; infant, newborn; live birth; second-hand smoke; smoke-free",10,0.0,0.0,0.0
+NCT05564689,original_content_based,fractional flow reserve,heart failure; chronic heart failure; actigraphy; acute heart failure; ahf,10,0.0,0.0,0.0
+NCT05564689,improved_content_based,fractional flow reserve,heart failure; chronic heart failure; actigraphy; acute heart failure; ahf,10,0.0,0.0,0.0
+NCT01895868,original_content_based,ultrasound simulation; ultrasound training,simulation; breast feeding; education; high fidelity simulation training; midwifery,10,0.0,0.0,0.0
+NCT01895868,improved_content_based,ultrasound simulation; ultrasound training,simulation; virtual reality; breast feeding; education; high fidelity simulation training,10,0.0,0.0,0.0
+NCT05281250,original_content_based,physical condition,exercise; obesity; aerobic exercise; emphysematous copd; lood flow restriction (bfr),10,0.0,0.0,0.0
+NCT05281250,improved_content_based,physical condition,safety; akt inhibitor; cancer; gsk2110183; hematologic malignancy,10,0.0,0.0,0.0
+NCT07016750,original_content_based,dystrophic epidermolysis bullosa,corneal abrasion; corneal infiltrate; optical coherence tomography; safety; tolerability,10,0.0,0.0,0.0
+NCT07016750,improved_content_based,dystrophic epidermolysis bullosa,brain metastasis; hbi-8000; melanoma; nivolumab; bar,10,0.0,0.0,0.0
+NCT00867750,original_content_based,hcc; yttrium-90,lenvatinib; e7080; unresectable hepatocellular carcinoma; child pugh b; pediatric,10,0.0,0.0,0.0
+NCT00867750,improved_content_based,hcc; yttrium-90,lenvatinib; child pugh b; e7080; unresectable hepatocellular carcinoma; carbon-ion radiotherapy,10,0.0,0.0,0.0
+NCT06823791,original_content_based,clarithromycin quadruple regimen,antibiotic susceptibility; eradication; helicobacter pylori; third-line therapy; combination therapy,10,0.0,0.0,0.0
+NCT06823791,improved_content_based,clarithromycin quadruple regimen,antibiotic susceptibility; eradication; helicobacter pylori; third-line therapy; combination therapy,10,0.0,0.0,0.0
+NCT04429191,original_content_based,myelodysplastic syndrome,leukemia; cancer; oncology; phase 2; pyronaridine,10,0.0,0.0,0.0
+NCT04429191,improved_content_based,myelodysplastic syndrome,leukemia; cancer; oncology; phase 2; pyronaridine,10,0.0,0.0,0.0
+NCT05938374,original_content_based,complications; preoperative radiotherapy,concurrent chemoradiation; neoadjuvant chemotherapy; npc; phase 2 clinical trial; midazolam,10,0.0,0.0,0.0
+NCT05938374,improved_content_based,complications; preoperative radiotherapy,ewing's sarcoma; immunotherapy; interleukin-2; rhabdomyosarcoma; tumor vaccine,10,0.0,0.0,0.0
+NCT01626274,original_content_based,long term vital signs monitoring; polysomnography,obstructive sleep apnea; respiration; sleep; telemonitoring; cpap,10,0.0,0.0,0.0
+NCT01626274,improved_content_based,long term vital signs monitoring; polysomnography,respiration; sleep; cpap; obstructive sleep apnea; telemedicine,10,0.0,0.0,0.0
+NCT03606174,original_content_based,antibody drug conjugates; nivolumab; pd-1; vegfr,recist guidelines; sunitinib; thyroid carcinoma; anti-angiogenesis; gw786034,10,0.0,0.0,0.0
+NCT03606174,improved_content_based,antibody drug conjugates; nivolumab; pd-1; vegfr,anti-angiogenesis; gw786034; metastatic; pazopanib; lenvatinib,10,0.0,0.0,0.0
+NCT07386418,original_content_based,angina; placebo-control,des; left main; pci; acute coronary syndrome; chest pain,10,0.0,0.0,0.0
+NCT07386418,improved_content_based,angina; placebo-control,coronary artery disease; des; left main; pci; complications,10,0.0,0.0,0.0
+NCT04765618,original_content_based,",bariatric surgery",effects of bariatric surgery on brain function; reduced glucose insulin changes and brain function; weightloss and brain function; bariatric surgery; nafld,10,0.0,0.0,0.0
+NCT04765618,improved_content_based,",bariatric surgery",bariatric surgery; nafld; nash; obesity; weight reduction,10,0.0,0.0,0.0
+NCT05856318,original_content_based,cardiovascular; cvd risk; placental syndrome,exercise; diabetes mellitus; biomarkers; hypertension; cardiometabolic health,10,0.0,0.0,0.0
+NCT05856318,improved_content_based,cardiovascular; cvd risk; placental syndrome,exercise; diabetes mellitus; cardiometabolic health; cardiovascular disease; fasted,10,0.0,0.0,0.0
+NCT07273318,original_content_based,dry nose,"anti-infective agents, local; clinical trial, phase iii; colorectal surgery; glucose oxidase; incisional surgical site infections (ssi)",10,0.0,0.0,0.0
+NCT07273318,improved_content_based,dry nose,"dialysis; povidone-iodine; anti-infective agents, local; clinical trial, phase iii; colorectal surgery",10,0.0,0.0,0.0
+NCT00506090,original_content_based,lasers,ewing's sarcoma; immunotherapy; interleukin-2; rhabdomyosarcoma; tumor vaccine,10,0.0,0.0,0.0
+NCT00506090,improved_content_based,lasers,"vaccine; anti-infective agents, local; clinical trial, phase iii; colorectal surgery; glucose oxidase",10,0.0,0.0,0.0
+NCT07731490,original_content_based,implementation science; stepped-wedge,heart disease; heart failure stage ii; heart failure stage iii; intrusive devices; intrusive sensors,10,0.0,0.0,0.0
+NCT07731490,improved_content_based,implementation science; stepped-wedge,chronic heart failure; heart disease; heart failure stage ii; heart failure stage iii; intrusive devices,10,0.0,0.0,0.0
+NCT02991690,original_content_based,trauma,autologous bone marrow mononuclear cells; spinal cord injury; stem cell therapy; chronic spinal cord injury; exercise,10,0.0,0.0,0.0
+NCT02991690,improved_content_based,trauma,autologous bone marrow mononuclear cells; spinal cord injury; stem cell therapy; chronic spinal cord injury; exercise,10,0.0,0.0,0.0
+NCT05091190,original_content_based,clearance; pd-l1,chemotherapy; low-level laser therapy; oral mucositis; photobiomodulation therapy; radiotherapy,10,0.0,0.0,0.0
+NCT05091190,improved_content_based,clearance; pd-l1,chemotherapy; low-level laser therapy; oral mucositis; photobiomodulation therapy; radiotherapy,10,0.0,0.0,0.0
+NCT05218590,original_content_based,nasotracheal intubation,cancer genetic counseling; educational video; pamphlet; anatomical lung resection; bronchoscopy,10,0.0,0.0,0.0
+NCT05218590,improved_content_based,nasotracheal intubation,cancer genetic counseling; educational video; pamphlet; intrapleural analgesia; postoperative pain,10,0.0,0.0,0.0
+NCT04824690,original_content_based,anxiety,anxiety; cardiovascular surgery; mindfulness; postoperative care; gun violence prevention,10,0.2,1.0,1.0
+NCT04824690,improved_content_based,anxiety,anxiety; collaborative care; telecare; analgesia; gw842166,10,0.2,1.0,1.0
+NCT02111590,original_content_based,"immunoglobulins, subcutaneous",avonex; chronic inflammatory demyelinating polyradiculoneuropathy; cidp; ivig; aerobic exercise,10,0.0,0.0,0.0
+NCT02111590,improved_content_based,"immunoglobulins, subcutaneous",avonex; chronic inflammatory demyelinating polyradiculoneuropathy; cidp; ivig; anemia,10,0.0,0.0,0.0
+NCT04869397,original_content_based,respiratory complication,covid-19 vaccines; health personnel; cell therapy; paediatric liver transplant; flavor,10,0.0,0.0,0.0
+NCT04869397,improved_content_based,respiratory complication,flavor; flavor test; hyposmia; retro-nasal olfaction; smell,10,0.0,0.0,0.0
+NCT06400797,original_content_based,outcome estimation,collaborative care; pain; telecare; acceptance and commitment therapy; chronic heart failure,10,0.0,0.0,0.0
+NCT06400797,improved_content_based,outcome estimation,quality of life; amputation; chronic pain; acceptance and commitment therapy; chronic heart failure,10,0.0,0.0,0.0
+NCT00485797,original_content_based,"postural control; the focus of the study is to explore the effects of ritalin on postural control in adhd children, during single and dual task conditions.",adhd; cognitive behavioral therapy; parent training; cognition; dual-task,10,0.0,0.0,0.0
+NCT00485797,improved_content_based,"postural control; the focus of the study is to explore the effects of ritalin on postural control in adhd children, during single and dual task conditions.",adhd; cognitive behavioral therapy; parent training; attention; brain concussion,10,0.0,0.0,0.0
+NCT00994097,original_content_based,cisplatin; randomized controlled trial,non-small cell lung cancer; nsclc; anlotinib; maintenance therapy; small cell lung cancer,10,0.0,0.0,0.0
+NCT00994097,improved_content_based,cisplatin; randomized controlled trial,non-small cell lung cancer; nsclc; small cell lung cancer; advanced non-small cell lung cancer; taxol,10,0.0,0.0,0.0
+NCT03676010,original_content_based,cancer,non-small cell lung cancer; cancer; ml; ptr-ms; voc,10,0.2,1.0,0.6309297535714575
+NCT03676010,improved_content_based,cancer,cancer; akt inhibitor; gsk2110183; hematologic malignancy; safety,10,0.2,1.0,1.0
+NCT01761110,original_content_based,opioid agonist treatment; opioid dependence,hepatitis c prevention; hiv prevention; justice involvement; hope; low-intensity intervention,10,0.0,0.0,0.0
+NCT01761110,improved_content_based,opioid agonist treatment; opioid dependence,hepatitis c prevention; hiv prevention; justice involvement; screening; spotting,10,0.0,0.0,0.0
+NCT00492310,original_content_based,yoga,smoking cessation; quality of life; cognitive dissonance; health professional role; health promotion,10,0.0,0.0,0.0
+NCT00492310,improved_content_based,yoga,smoking cessation; acceptance and commitment therapy; primary care setting; randomised controlled trial; cognitive dissonance,10,0.0,0.0,0.0
+NCT03291613,original_content_based,adolescence; sickle cell disease,sickle cell; anemia; vaso occlusive crisis; voc; acute chest syndrome (acs),10,0.0,0.0,0.0
+NCT03291613,improved_content_based,adolescence; sickle cell disease,sickle cell; adherence; thalassemia; anemia; vaso occlusive crisis,10,0.0,0.0,0.0
+NCT02138513,original_content_based,mbct; mindfulness,depression; mindfulness; acupuncture; child abuse survivors; mindfulness-based stress reduction,10,0.2,0.5,0.38685280723454163
+NCT02138513,improved_content_based,mbct; mindfulness,depression; caregiving; distress; emotion regulation; inflammation,10,0.0,0.0,0.0
+NCT05877560,original_content_based,convergence insufficiency; frontal eye fields,neuroplasticity; rehabilitation; cortical mapping; electrophysiology; epilepsy,10,0.0,0.0,0.0
+NCT05877560,improved_content_based,convergence insufficiency; frontal eye fields,neuroplasticity; rehabilitation; nava; non invasive ventilation; alzheimer's disease,10,0.0,0.0,0.0
+NCT03258060,original_content_based,cardiac resynchronization therapy; electrophysiology,chronic heart failure; atrial fibrillation; nt-probnp; heart disease; heart failure stage ii,10,0.0,0.0,0.0
+NCT03258060,improved_content_based,cardiac resynchronization therapy; electrophysiology,chronic heart failure; quality of life; yoga; heart disease; heart failure stage ii,10,0.0,0.0,0.0
+NCT03183960,original_content_based,self-management; support,rehabilitation; armeo spring therapy; ischemic stroke; active aging; active older adults,10,0.0,0.0,0.0
+NCT03183960,improved_content_based,self-management; support,esophagus cancer; invasive esophagectomy; long-term survival; open esophagectomy; chronic pain,10,0.0,0.0,0.0
+NCT06189560,original_content_based,stellate ganglion block; swallowing disorder,post-dural puncture headache; sphenopalatine ganglion block; quality of life; 4 in 1 block; adductor canal block,10,0.0,0.0,0.0
+NCT06189560,improved_content_based,stellate ganglion block; swallowing disorder,regional anesthesia; femoral nerve block; erector spinae plane block; local anesthesia; percutaneous balloon kyphoplasty,10,0.0,0.0,0.0
+NCT03667560,original_content_based,acellular dermal matrix,aquaporin-1; biobanking; biomarker; dickkopf-3; dkk3,10,0.0,0.0,0.0
+NCT03667560,improved_content_based,acellular dermal matrix,recurrent breast cancer; stage iv breast cancer; cancer; adenocarcinoma; breast,10,0.0,0.0,0.0
+NCT03673020,original_content_based,vaccine,"vaccine; hematologic neoplasms, lbh589,; panobinostat,; antiretroviral-naïve; broadly neutralizing antibody",10,0.2,1.0,1.0
+NCT03673020,improved_content_based,vaccine,diagnosis; positron-emission tomography; solid; tumor; cancer,10,0.0,0.0,0.0
+NCT07417020,original_content_based,acute pancreatitis; endoscopic retrograde cholangiopancreatography,attempts of cannulation; difficult selective biliary cannulation; double guide wire technique; ercp; post-ercp complications.,10,0.0,0.0,0.0
+NCT07417020,improved_content_based,acute pancreatitis; endoscopic retrograde cholangiopancreatography,attempts of cannulation; difficult selective biliary cannulation; double guide wire technique; ercp; post-ercp complications.,10,0.0,0.0,0.0
+NCT04661020,original_content_based,large b-cell lymphoma,refractory; relapsed; ctdna; diagnostic performance; pet/ct,10,0.0,0.0,0.0
+NCT04661020,improved_content_based,large b-cell lymphoma,autologous stem cell transplantation; dlbcl; ipi; pet; r-megachop,10,0.0,0.0,0.0
+NCT03456882,original_content_based,amyotrophic lateral sclerosis; therapy,new russian drug; oxaсom; pulmonary arterial hypertension; alzheimer disease; mild cognitive impairment,10,0.0,0.0,0.0
+NCT03456882,improved_content_based,amyotrophic lateral sclerosis; therapy,multiple sclerosis; interferon beta-1a; rebif; core muscles; functional inspiratory muscle training,10,0.0,0.0,0.0
+NCT02948582,original_content_based,chronic obstructive pulmonary disease,"anti-infective agents, local; clinical trial, phase iii; colorectal surgery; glucose oxidase; incisional surgical site infections (ssi)",10,0.0,0.0,0.0
+NCT02948582,improved_content_based,chronic obstructive pulmonary disease,hfnc; high flow nasal cannula; oxygen; pulmonary rehabilitation; new russian drug,10,0.0,0.0,0.0
+NCT07168824,original_content_based,dietary supplement,quality of life; cognitive function; amputation; chronic pain; alzheimer's disease,10,0.0,0.0,0.0
+NCT07168824,improved_content_based,dietary supplement,older adults; cognitive function; natural history; chinese herbal; constipation/drug therapy,10,0.0,0.0,0.0
+NCT00914524,original_content_based,diabetic nephropathy,anti-infective agents; antimalarials; antiparasitic agents; antiprotozoal agents; antirheumatic agents,10,0.0,0.0,0.0
+NCT00914524,improved_content_based,diabetic nephropathy,diabetic retinopathy; acceptance and commitment therapy; chronic heart failure; health-related quality of life; patient-caregiver dyads,10,0.0,0.0,0.0
+NCT07530224,original_content_based,refractory immune checkpoint inhibitors (ici)-related dermatitis,atopic dermatitis; pediatric; protopic; atopic eczema; children,10,0.0,0.0,0.0
+NCT07530224,improved_content_based,refractory immune checkpoint inhibitors (ici)-related dermatitis,atopic dermatitis; pediatric; protopic; angioimmunoblastic t-cell lymphoma; childhood burkitt lymphoma,10,0.0,0.0,0.0
+NCT01118624,original_content_based,metastatic,"recurrent breast cancer; stage iv breast cancer; antibodies, monoclonal; antineoplastic agent; breast neoplasm",10,0.0,0.0,0.0
+NCT01118624,improved_content_based,metastatic,recurrent breast cancer; stage iv breast cancer; adenocarcinoma; breast; male breast cancer,10,0.0,0.0,0.0
+NCT00554723,original_content_based,randomized; recovery,safety; allergy; immunotherapy; mild to moderate asthma; mites,10,0.0,0.0,0.0
+NCT00554723,improved_content_based,randomized; recovery,quality of life; armeo spring therapy; ischemic stroke; rehabilitation; activity capacity,10,0.0,0.0,0.0
+NCT07391280,original_content_based,artificial intelligence; lung cancer,emergency department; 75 years old; acetaminophen; analgesics; bone fracture,10,0.0,0.0,0.0
+NCT07391280,improved_content_based,artificial intelligence; lung cancer,akt inhibitor; cancer; gsk2110183; hematologic malignancy; safety,10,0.0,0.0,0.0
+NCT05923580,original_content_based,adherence to treatment; quality of life,acute coronary syndrome; chest pain; computed tomography coronary angiography; emergency room; stress echocardiography,10,0.0,0.0,0.0
+NCT05923580,improved_content_based,adherence to treatment; quality of life,bfpet; myocardial perfusion imaging; radiation dosimetry; des; left main,10,0.0,0.0,0.0
+NCT03263780,original_content_based,hifu; high resolution diffusion-weighted imaging,adenocarcinoma of the prostate; recurrent prostate cancer; stage iv prostate cancer; stage iia prostate cancer; stage iib prostate cancer,10,0.0,0.0,0.0
+NCT03263780,improved_content_based,hifu; high resolution diffusion-weighted imaging,stage iia prostate cancer; stage iib prostate cancer; stage iii prostate cancer; adenocarcinoma of the prostate; recurrent prostate cancer,10,0.0,0.0,0.0
+NCT04037280,original_content_based,posology,stress incontinence; urodynamics; videourodynamics; acceptability; assessment,10,0.0,0.0,0.0
+NCT04037280,improved_content_based,posology,acceptability; assessment; instruction; pelvic floor muscles; understanding,10,0.0,0.0,0.0
+NCT01437280,original_content_based,solid tumors,recurrent breast cancer; stage iv breast cancer; adenocarcinoma of the pancreas; stage i pancreatic cancer; stage ii pancreatic cancer,10,0.0,0.0,0.0
+NCT01437280,improved_content_based,solid tumors,cancer; adc; antibody-drug conjugate; duocarmycin; her2,10,0.0,0.0,0.0
+NCT00913679,original_content_based,femoral neck fracture; gait function,total knee arthroplasty; depuysynthes; direct anterior approach hip replacement; fracture table; posterior approach hip replacement,10,0.0,0.0,0.0
+NCT00913679,improved_content_based,femoral neck fracture; gait function,heart failure; near infrared; peripheral intravenous catheter; ultrasound; antiresorptive agents,10,0.0,0.0,0.0
+NCT00822679,original_content_based,acute coronary syndrome,acute coronary syndrome; chest pain; computed tomography coronary angiography; emergency room; stress echocardiography,10,0.2,1.0,1.0
+NCT00822679,improved_content_based,acute coronary syndrome,acute coronary syndrome; chest pain; computed tomography coronary angiography; emergency room; stress echocardiography,10,0.2,1.0,1.0
+NCT02680496,original_content_based,energy consumption; stroke [mesh],armeo spring therapy; ischemic stroke; quality of life; rehabilitation; anticoagulation,10,0.0,0.0,0.0
+NCT02680496,improved_content_based,energy consumption; stroke [mesh],armeo spring therapy; ischemic stroke; quality of life; rehabilitation; brain disease,10,0.0,0.0,0.0
+NCT07657962,original_content_based,autologous free dermal graft; reduction mammaplasty,recurrent breast cancer; stage iv breast cancer; autologous; fibroblasts; skin aging,10,0.0,0.0,0.0
+NCT07657962,improved_content_based,autologous free dermal graft; reduction mammaplasty,recurrent breast cancer; stage iv breast cancer; adenocarcinoma; breast; male breast cancer,10,0.0,0.0,0.0
+NCT01528462,original_content_based,"ischemic attack, transient; sleep apnea syndromes",obstructive sleep apnea; cpap; telemedicine; telemonitoring; titration,10,0.0,0.0,0.0
+NCT01528462,improved_content_based,"ischemic attack, transient; sleep apnea syndromes",obstructive sleep apnea; respiration; sleep; cpap; telemedicine,10,0.0,0.0,0.0
+NCT06781762,original_content_based,heart disease risk factors,recurrent breast cancer; stage iv breast cancer; adiposity; breast density; breast neoplasms,10,0.0,0.0,0.0
+NCT06781762,improved_content_based,heart disease risk factors,recurrent breast cancer; stage iv breast cancer; male breast cancer; adenocarcinoma; breast,10,0.0,0.0,0.0
+NCT07615062,original_content_based,cross-education,quality of life; block-building activities; cognitive function; grip strength; hand dexterity,10,0.0,0.0,0.0
+NCT07615062,improved_content_based,cross-education,angiogenesis; exercise training; skeletal muscle; vascular function; amputee,10,0.0,0.0,0.0
+NCT04235946,original_content_based,adapted physical activity,mental health; exercise; physical activity; fatigue; adiposity,10,0.0,0.0,0.0
+NCT04235946,improved_content_based,adapted physical activity,recurrent breast cancer; stage iv breast cancer; cancer; adenocarcinoma; breast,10,0.0,0.0,0.0
+NCT01188746,original_content_based,10-059,amputation; chronic pain; armeo spring therapy; ischemic stroke; rehabilitation,10,0.0,0.0,0.0
+NCT01188746,improved_content_based,10-059,amputation; chronic pain; acceptance and commitment therapy; chronic heart failure; health-related quality of life,10,0.0,0.0,0.0
+NCT00439088,original_content_based,ambulatory monitoring; pedometer,activity capacity; activity performance; cerebral palsy; participation; physical activity,10,0.0,0.0,0.0
+NCT00439088,improved_content_based,ambulatory monitoring; pedometer,physical activity; activity capacity; activity performance; cerebral palsy; participation,10,0.0,0.0,0.0
+NCT03726788,original_content_based,botulinum toxin,botulinum toxin a; clinical crown length; clinical crown lengthening surgery; gingival exposure; gummy smile,10,0.0,0.0,0.0
+NCT03726788,improved_content_based,botulinum toxin,botulinum toxin a; clinical crown length; clinical crown lengthening surgery; gingival exposure; gummy smile,10,0.0,0.0,0.0
+NCT06161688,original_content_based,viral persistence,covid-19 vaccines; health personnel; cardiovascular disease; general population; psychological impact,10,0.0,0.0,0.0
+NCT06161688,improved_content_based,viral persistence,cardiovascular disease; general population; psychological impact; quarantine; herpes zoster subunit vaccine,10,0.0,0.0,0.0
+NCT05910203,original_content_based,smoking,smoking cessation; cognitive dissonance; health professional role; health promotion; lifestyle,10,0.0,0.0,0.0
+NCT05910203,improved_content_based,smoking,smoking cessation; cognitive dissonance; health professional role; health promotion; lifestyle,10,0.0,0.0,0.0
+NCT05762627,original_content_based,asthma trajectories; childhood severe asthma,"asthma; influenza a virus, h1n1 subtype; vaccine; airway remodelling; airway smooth muscle",10,0.0,0.0,0.0
+NCT05762627,improved_content_based,asthma trajectories; childhood severe asthma,asthma; allergen challenge; airway remodelling; airway smooth muscle; eosinophils,10,0.0,0.0,0.0
+NCT06606327,original_content_based,insulin resistance,brown adipose tissue; insulin receptors; liothyronine; insulin pump; glucose tolerance,10,0.0,0.0,0.0
+NCT06606327,improved_content_based,insulin resistance,brown adipose tissue; insulin receptors; liothyronine; overweight; bariatric surgery,10,0.0,0.0,0.0
+NCT01064661,original_content_based,abdominal discomfort; functional bowel disorders,nissle 1917; probiotic; uropathogen; musculoskeletal pain; chronic pain,10,0.0,0.0,0.0
+NCT01064661,improved_content_based,abdominal discomfort; functional bowel disorders,pain; musculoskeletal pain; collaborative care; telecare; analgesia,10,0.0,0.0,0.0
+NCT06706661,original_content_based,mortality; multimodal; nutrition risk,nutrition; screening; adjuvant therapy; ecog performance status; octogenarians,10,0.0,0.0,0.0
+NCT06706661,improved_content_based,mortality; multimodal; nutrition risk,nutrition; screening; older adults; covid-19; mental health,10,0.0,0.0,0.0
+NCT01356342,original_content_based,influenza,"safety; influenza a virus, h1n1 subtype; adults; children; epilepsy",10,0.0,0.0,0.0
+NCT01356342,improved_content_based,influenza,"influenza; reconciling exterior and interior therapy; influenza a virus, h1n1 subtype; safety; china",10,0.2,1.0,1.0
+NCT06803342,original_content_based,cad3-sudan vaccine,safety; vaccine; tolerability; first time in human; healthy volunteer,10,0.0,0.0,0.0
+NCT06803342,improved_content_based,cad3-sudan vaccine,"influenza a virus, h1n1 subtype; vaccine; australia; cgb3002; healthy participants",10,0.0,0.0,0.0
+NCT02387086,original_content_based,egfr mutation,non-small cell lung cancer; advanced metastatic non-small cell lung cancer; datopotamab deruxtecan; ds-1062a; metastatic non-small cell lung cancer,10,0.0,0.0,0.0
+NCT02387086,improved_content_based,egfr mutation,driver mutation; liquid biopsy; autonomic nervous system; beta-adrenoceptor blocker; beta-adrenoceptors,10,0.0,0.0,0.0
+NCT04379986,original_content_based,remote monitoring,covid-19 vaccines; health personnel; blood pressure monitoring; clinical hypnosis; hypertension,10,0.0,0.0,0.0
+NCT04379986,improved_content_based,remote monitoring,blood pressure monitoring; clinical hypnosis; hypertension; neurofibromatosis; procedural anxiety,10,0.0,0.0,0.0
+NCT04091386,original_content_based,coagulation factor viii,active classroom; school-based intervention; exercise; anemia; chronic kidney disease,10,0.0,0.0,0.0
+NCT04091386,improved_content_based,coagulation factor viii,exercise; active classroom; school-based intervention; adolescent; anorexia nervosa,10,0.0,0.0,0.0
+NCT01486186,original_content_based,"humans; pulmonary disease, chronic obstructive",copd; hfnc; high flow nasal cannula; oxygen; pulmonary rehabilitation,10,0.0,0.0,0.0
+NCT01486186,improved_content_based,"humans; pulmonary disease, chronic obstructive",copd; hfnc; high flow nasal cannula; oxygen; pulmonary rehabilitation,10,0.0,0.0,0.0
+NCT04427670,original_content_based,dysarthia,nurse; post-traumatic stress; therapy; arabic; cat-clams,10,0.0,0.0,0.0
+NCT04427670,improved_content_based,dysarthia,armeo spring therapy; ischemic stroke; quality of life; rehabilitation; brain disease,10,0.0,0.0,0.0
+NCT07286370,original_content_based,reactogenicity; safety,safety; booster vaccination; human immunodeficiency virus; pneumococcal disease; pneumococcal vaccine,10,0.2,0.5,0.6131471927654584
+NCT07286370,improved_content_based,reactogenicity; safety,"safety; anti-infective agents, local; clinical trial, phase iii; colorectal surgery; glucose oxidase",10,0.2,0.5,0.6131471927654584
+NCT07298473,original_content_based,electrophysiology mapping; left atrial ablation; paroxysmal atrial fibrillation; persistent atrial fibrillation; repeat ablation procedures,catheter ablation; complex fractionate electrograms; ablation; cryoablation; heart failure,10,0.0,0.0,0.0
+NCT07298473,improved_content_based,electrophysiology mapping; left atrial ablation; paroxysmal atrial fibrillation; persistent atrial fibrillation; repeat ablation procedures,catheter ablation; complex fractionate electrograms; ablation; cryoablation; heart failure,10,0.0,0.0,0.0
+NCT04983069,original_content_based,lysinuric protein intolerance; medical genetics; nephropathy,antenatal period; breast milk; breastfeeding education; breastfeeding self-efficacy perception; breastfeeding success,10,0.0,0.0,0.0
+NCT04983069,improved_content_based,lysinuric protein intolerance; medical genetics; nephropathy,anti-infective agents; antimalarials; antiparasitic agents; antiprotozoal agents; antirheumatic agents,10,0.0,0.0,0.0
+NCT03994783,original_content_based,amr,"hiv; ahf,; relax-ahf-eu; renal impairment; rlx030,",10,0.0,0.0,0.0
+NCT03994783,improved_content_based,amr,recurrent renal cell cancer; stage iv renal cell cancer; aorta; echocardiography; heart failure,10,0.0,0.0,0.0
+NCT06008483,original_content_based,bone tumor; metastatic cancer to the bone,angioimmunoblastic t-cell lymphoma; acl; tunnel; widening; antiresorptive agents,10,0.0,0.0,0.0
+NCT06008483,improved_content_based,bone tumor; metastatic cancer to the bone,diagnosis; positron-emission tomography; solid; tumor; fih,10,0.0,0.0,0.0
+NCT02595983,original_content_based,attr amyloidosis; familial amyloidotic polyneuropathy,cell therapy; paediatric liver transplant; bariatric surgery; nafld; nash,10,0.0,0.0,0.0
+NCT02595983,improved_content_based,attr amyloidosis; familial amyloidotic polyneuropathy,brain metastasis; hbi-8000; melanoma; nivolumab; cell therapy,10,0.0,0.0,0.0
+NCT04448041,original_content_based,cancer surgery,screening; nutrition; cancer; hope; low-intensity intervention,10,0.0,0.0,0.0
+NCT04448041,improved_content_based,cancer surgery,nutrition; screening; cancer; safety; akt inhibitor,10,0.0,0.0,0.0
+NCT00161941,original_content_based,meningococcal vaccine,safety; boosting dose; dtap-ipv; healthy adults; observational study,10,0.0,0.0,0.0
+NCT00161941,improved_content_based,meningococcal vaccine,menacyw conjugate vaccine; meningitis; meningococcal meningitis; menjugate®; nimenrix®,10,0.0,0.0,0.0
+NCT04262154,original_content_based,atezolizumab; memorial sloan kettering cancer center; stereotactic body radiotherapy,focal boost; prostate; sbrt (stereotactic body radiotherapy); stage iia prostate cancer; stage iib prostate cancer,10,0.0,0.0,0.0
+NCT04262154,improved_content_based,atezolizumab; memorial sloan kettering cancer center; stereotactic body radiotherapy,stage iia prostate cancer; stage iib prostate cancer; stage iii prostate cancer; adenocarcinoma of the prostate; recurrent prostate cancer,10,0.0,0.0,0.0
+NCT00795054,original_content_based,stem cell transplantation,aerobic capacity; exercise; fatigue; prehabilitation; quality of life,10,0.0,0.0,0.0
+NCT00795054,improved_content_based,stem cell transplantation,aerobic capacity; exercise; fatigue; prehabilitation; quality of life,10,0.0,0.0,0.0
+NCT00297154,original_content_based,metabolic syndrome x,heart failure; chronic heart failure; exercise; atrial fibrillation; nt-probnp,10,0.0,0.0,0.0
+NCT00297154,improved_content_based,metabolic syndrome x,heart failure; chronic heart failure; exercise; quality of life; yoga,10,0.0,0.0,0.0
+NCT02459405,original_content_based,indocyanine green; near infrared,colorectal skills training; laparoscopic colectomy; near infrared; peripheral intravenous catheter; ultrasound,10,0.2,0.5,0.3065735963827292
+NCT02459405,improved_content_based,indocyanine green; near infrared,"anti-infective agents, local; clinical trial, phase iii; glucose oxidase; incisional surgical site infections (ssi); peroxidase",10,0.0,0.0,0.0
+NCT06963905,original_content_based,cytotoxic chemotherapy,brain metastasis; hbi-8000; melanoma; nivolumab; recurrent breast cancer,10,0.0,0.0,0.0
+NCT06963905,improved_content_based,cytotoxic chemotherapy,recurrent breast cancer; stage iv breast cancer; cancer; male breast cancer; adenocarcinoma,10,0.0,0.0,0.0
+NCT00619905,original_content_based,rheumatoid arthritis,interferon beta-1a; pharmacodynamics; pharmacokinetics; volunteers; burning pain,10,0.0,0.0,0.0
+NCT00619905,improved_content_based,rheumatoid arthritis,femoral nerve block; local infiltration analgesia; total knee arthroplasty; arthritis; jia,10,0.0,0.0,0.0
+NCT01335594,original_content_based,endoscopy,obstructive sleep apnea; cpap; telemedicine; telemonitoring; titration,10,0.0,0.0,0.0
+NCT01335594,improved_content_based,endoscopy,obstructive sleep apnea; respiration; sleep; cpap; telemedicine,10,0.0,0.0,0.0
+NCT07072494,original_content_based,cd19,leukemia; cancer; oncology; phase 2; pyronaridine,10,0.0,0.0,0.0
+NCT07072494,improved_content_based,cd19,leukemia; azd0486; b-cell acute lymphoblastic leukemia; b-lymphocytes; surovatamig,10,0.0,0.0,0.0
+NCT01802294,original_content_based,child,mental health; nurse; hope; low-intensity intervention; palliative,10,0.0,0.0,0.0
+NCT01802294,improved_content_based,child,adolescent; child health; paediatrician concerns; parental concerns; biomarkers,10,0.0,0.0,0.0
+NCT01273194,original_content_based,palliative care; pediatric cancer,advanced chronic disease; care pathways; emergency department; palliative care; collaborative care,10,0.2,0.5,0.2640681225725909
+NCT01273194,improved_content_based,palliative care; pediatric cancer,cancer; dexmedetomidine; gastrointestinal endoscopy; pediatric; akt inhibitor,10,0.0,0.0,0.0
+NCT07374666,original_content_based,mental health,mental health; acupuncture; child abuse survivors; depression; mindfulness-based stress reduction,10,0.2,1.0,1.0
+NCT07374666,improved_content_based,mental health,mental health; cross-cultural adaptation; existential recovery; french validation; mental health recovery,10,0.2,1.0,1.0
+NCT00099866,original_content_based,type 2 diabetes,diabetes mellitus; insulin pump; cognition; dual-task; type ii diabetes mellitus,10,0.0,0.0,0.0
+NCT00099866,improved_content_based,type 2 diabetes,diabetes mellitus; insulin pump; diabetes mellitus type 1; hybrid closed loop system; minimed 670g,10,0.0,0.0,0.0
+NCT04942366,original_content_based,physical therapy; strength training,high-intensity interval training; exercise oncology; randomized controlled trial; upper gastrointestinal cancers; obesity,10,0.0,0.0,0.0
+NCT04942366,improved_content_based,physical therapy; strength training,obesity; depression; genetic diseases and dysmorphic syndromes; rare disease; turner's syndrome,10,0.0,0.0,0.0

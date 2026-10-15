@@ -1,0 +1,19 @@
+COLLABORATIVE FILTERING RECOMMENDATION REPORT
+==================================================
+Trials with recorded keywords: 645
+Training trials: 516
+Test trials: 129
+Training vocabulary: 1956
+Interaction matrix shape: (516, 1956)
+Neighborhood size: 10
+
+Method:
+1. Build binary training trial-keyword interactions.
+2. Hide some recorded keywords for multi-keyword test trials.
+3. Compare visible target keywords with training trials.
+4. Rank unseen candidate keywords by neighbor similarity votes.
+
+Caution:
+This output is for inspecting recommendations.
+Use a separate fixed evaluation set for model comparisons.
+One-keyword test trials cannot provide a hidden-label evaluation.

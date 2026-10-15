@@ -1,0 +1,19 @@
+CONTENT-BASED KEYWORD RECOMMENDATION REPORT
+================================================
+Trials processed: 1000
+TF-IDF vocabulary size: 30000
+Similar trials considered per target: 10
+Maximum recommendations per trial: 10
+
+Method:
+1. Represent trial descriptions with TF-IDF.
+2. Calculate cosine similarity between trial descriptions.
+3. Collect keywords from the most similar trials.
+4. Rank candidate keywords by summed similarity.
+5. Exclude keywords already recorded for the target trial.
+
+Important limitation:
+This is an exploratory recommendation output, not an evaluation.
+For valid evaluation, keyword labels from held-out trials must
+not contribute to recommendations, and preprocessing/model fitting
+must be performed using training data only.

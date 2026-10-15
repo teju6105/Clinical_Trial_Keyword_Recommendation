@@ -1,0 +1,31 @@
+BASELINE KEYWORD RECOMMENDATION REPORT
+=============================================
+Total trials in dataset: 1000
+Trials with original keywords: 645
+Unique individual keywords: 2420
+
+Method: Rank individual keywords by trial frequency.
+Each keyword is counted at most once per trial.
+This is a simple frequency-based baseline, not a personalized model.
+
+Top 20 keywords:
+ 1. quality of life - appears in 16 trials
+ 2. exercise - appears in 15 trials
+ 3. safety - appears in 14 trials
+ 4. cancer - appears in 11 trials
+ 5. obesity - appears in 10 trials
+ 6. depression - appears in 9 trials
+ 7. physical activity - appears in 9 trials
+ 8. randomized controlled trial - appears in 9 trials
+ 9. heart failure - appears in 8 trials
+10. mental health - appears in 8 trials
+11. rehabilitation - appears in 7 trials
+12. atrial fibrillation - appears in 6 trials
+13. hypertension - appears in 6 trials
+14. older adults - appears in 6 trials
+15. pediatric - appears in 6 trials
+16. pharmacokinetics - appears in 6 trials
+17. stroke - appears in 6 trials
+18. immunogenicity - appears in 5 trials
+19. pain - appears in 5 trials
+20. pregnancy - appears in 5 trials

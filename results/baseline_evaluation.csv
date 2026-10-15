@@ -1,0 +1,112 @@
+trial_id,visible_keyword_count,hidden_keyword_count,precision_at_5,recall_at_5,ndcg_at_5,hidden_keywords,recommended_keywords
+NCT07733635,4,2,0.0,0.0,0.0,bronchial asthma; spirometry,exercise; safety; quality of life; cancer; depression
+NCT03756025,3,2,0.0,0.0,0.0,early childhood caries; glass ionomer cement,exercise; safety; quality of life; cancer; depression
+NCT04752176,3,1,0.0,0.0,0.0,medical device,exercise; safety; quality of life; cancer; depression
+NCT06699576,3,2,0.0,0.0,0.0,phase 1b; soft tissue sarcoma,exercise; safety; quality of life; cancer; depression
+NCT07267676,3,1,0.0,0.0,0.0,dental anxiety,exercise; safety; quality of life; cancer; depression
+NCT00118976,3,1,0.0,0.0,0.0,albuminuria,exercise; safety; quality of life; cancer; depression
+NCT03615976,1,1,0.0,0.0,0.0,arthroscopy,exercise; safety; quality of life; cancer; depression
+NCT03374917,1,1,0.0,0.0,0.0,levodopa,exercise; safety; quality of life; cancer; depression
+NCT07397117,3,1,0.0,0.0,0.0,lumbar radiculopathy,exercise; safety; quality of life; cancer; depression
+NCT03489317,1,1,0.0,0.0,0.0,stool,exercise; safety; quality of life; cancer; depression
+NCT00388817,5,2,0.0,0.0,0.0,adherence; costs,exercise; safety; quality of life; cancer; depression
+NCT07319117,6,3,0.0,0.0,0.0,l-theanine; magnesium; rhodiola,exercise; safety; quality of life; cancer; depression
+NCT05065840,1,1,0.0,0.0,0.0,vaccination,exercise; safety; quality of life; cancer; depression
+NCT01743040,3,2,0.0,0.0,0.0,cadence; nuclear stress test,exercise; safety; quality of life; cancer; depression
+NCT01923389,3,2,0.0,0.0,0.0,intravenous; multiple dose,exercise; quality of life; cancer; depression; mental health
+NCT04015089,1,1,0.0,0.0,0.0,partially hydrolized protein infant formula,exercise; safety; quality of life; cancer; depression
+NCT05564689,1,1,0.0,0.0,0.0,fractional flow reserve,exercise; safety; quality of life; cancer; depression
+NCT01895868,3,2,0.0,0.0,0.0,ultrasound simulation; ultrasound training,exercise; safety; quality of life; cancer; depression
+NCT05281250,2,1,0.0,0.0,0.0,physical condition,exercise; safety; quality of life; cancer; depression
+NCT07016750,2,1,0.0,0.0,0.0,dystrophic epidermolysis bullosa,exercise; safety; quality of life; cancer; depression
+NCT00867750,5,2,0.0,0.0,0.0,hcc; yttrium-90,exercise; safety; quality of life; cancer; depression
+NCT06823791,2,1,0.0,0.0,0.0,clarithromycin quadruple regimen,exercise; safety; quality of life; cancer; depression
+NCT04429191,3,1,0.0,0.0,0.0,myelodysplastic syndrome,exercise; safety; quality of life; cancer; depression
+NCT05938374,3,2,0.0,0.0,0.0,complications; preoperative radiotherapy,exercise; safety; quality of life; cancer; depression
+NCT01626274,3,2,0.0,0.0,0.0,long term vital signs monitoring; polysomnography,exercise; safety; quality of life; cancer; depression
+NCT03606174,10,4,0.0,0.0,0.0,antibody drug conjugates; nivolumab; pd-1; vegfr,exercise; safety; quality of life; cancer; depression
+NCT07386418,3,2,0.0,0.0,0.0,angina; placebo-control,exercise; safety; quality of life; cancer; depression
+NCT04765618,1,1,0.0,0.0,0.0,",bariatric surgery",exercise; safety; quality of life; cancer; depression
+NCT05856318,6,3,0.0,0.0,0.0,cardiovascular; cvd risk; placental syndrome,exercise; safety; quality of life; cancer; depression
+NCT07273318,3,1,0.0,0.0,0.0,dry nose,exercise; safety; quality of life; cancer; depression
+NCT00506090,2,1,0.0,0.0,0.0,lasers,exercise; safety; quality of life; cancer; depression
+NCT07731490,3,2,0.0,0.0,0.0,implementation science; stepped-wedge,exercise; safety; quality of life; cancer; depression
+NCT02991690,2,1,0.0,0.0,0.0,trauma,exercise; safety; quality of life; cancer; depression
+NCT05091190,4,2,0.0,0.0,0.0,clearance; pd-l1,exercise; safety; quality of life; cancer; depression
+NCT05218590,2,1,0.0,0.0,0.0,nasotracheal intubation,exercise; safety; quality of life; cancer; depression
+NCT04824690,3,1,0.0,0.0,0.0,anxiety,exercise; safety; quality of life; cancer; depression
+NCT02111590,1,1,0.0,0.0,0.0,"immunoglobulins, subcutaneous",exercise; safety; quality of life; cancer; depression
+NCT04869397,3,1,0.0,0.0,0.0,respiratory complication,exercise; safety; quality of life; cancer; depression
+NCT06400797,2,1,0.0,0.0,0.0,outcome estimation,exercise; safety; quality of life; cancer; depression
+NCT00485797,3,2,0.0,0.0,0.0,"postural control; the focus of the study is to explore the effects of ritalin on postural control in adhd children, during single and dual task conditions.",exercise; safety; quality of life; cancer; depression
+NCT00994097,4,2,0.0,0.0,0.0,cisplatin; randomized controlled trial,exercise; safety; quality of life; cancer; depression
+NCT03676010,3,1,0.2,1.0,0.43067655807339306,cancer,exercise; safety; quality of life; cancer; depression
+NCT01761110,5,2,0.0,0.0,0.0,opioid agonist treatment; opioid dependence,exercise; safety; quality of life; cancer; depression
+NCT00492310,3,1,0.0,0.0,0.0,yoga,exercise; safety; quality of life; cancer; depression
+NCT03291613,4,2,0.0,0.0,0.0,adolescence; sickle cell disease,exercise; safety; quality of life; cancer; depression
+NCT02138513,4,2,0.0,0.0,0.0,mbct; mindfulness,exercise; safety; quality of life; depression; mental health
+NCT05877560,3,2,0.0,0.0,0.0,convergence insufficiency; frontal eye fields,exercise; safety; quality of life; cancer; depression
+NCT03258060,4,2,0.0,0.0,0.0,cardiac resynchronization therapy; electrophysiology,exercise; safety; quality of life; cancer; depression
+NCT03183960,4,2,0.0,0.0,0.0,self-management; support,exercise; safety; cancer; depression; mental health
+NCT06189560,3,2,0.0,0.0,0.0,stellate ganglion block; swallowing disorder,exercise; safety; quality of life; cancer; depression
+NCT03667560,2,1,0.0,0.0,0.0,acellular dermal matrix,exercise; safety; quality of life; cancer; depression
+NCT03673020,1,1,0.0,0.0,0.0,vaccine,exercise; safety; quality of life; cancer; depression
+NCT07417020,4,2,0.0,0.0,0.0,acute pancreatitis; endoscopic retrograde cholangiopancreatography,exercise; safety; quality of life; cancer; depression
+NCT04661020,2,1,0.0,0.0,0.0,large b-cell lymphoma,exercise; safety; quality of life; cancer; depression
+NCT03456882,3,2,0.0,0.0,0.0,amyotrophic lateral sclerosis; therapy,exercise; safety; quality of life; cancer; depression
+NCT02948582,3,1,0.0,0.0,0.0,chronic obstructive pulmonary disease,exercise; safety; quality of life; cancer; depression
+NCT07168824,3,1,0.0,0.0,0.0,dietary supplement,exercise; safety; quality of life; cancer; depression
+NCT00914524,3,1,0.0,0.0,0.0,diabetic nephropathy,exercise; safety; quality of life; cancer; depression
+NCT07530224,2,1,0.0,0.0,0.0,refractory immune checkpoint inhibitors (ici)-related dermatitis,exercise; safety; quality of life; cancer; depression
+NCT01118624,2,1,0.0,0.0,0.0,metastatic,exercise; safety; quality of life; cancer; depression
+NCT00554723,6,2,0.0,0.0,0.0,randomized; recovery,exercise; safety; quality of life; cancer; depression
+NCT07391280,3,2,0.0,0.0,0.0,artificial intelligence; lung cancer,exercise; safety; quality of life; cancer; depression
+NCT05923580,3,2,0.2,0.5,0.3065735963827292,adherence to treatment; quality of life,exercise; safety; quality of life; cancer; depression
+NCT03263780,3,2,0.0,0.0,0.0,hifu; high resolution diffusion-weighted imaging,exercise; safety; quality of life; cancer; depression
+NCT04037280,2,1,0.0,0.0,0.0,posology,safety; quality of life; cancer; depression; mental health
+NCT01437280,1,1,0.0,0.0,0.0,solid tumors,exercise; safety; quality of life; cancer; depression
+NCT00913679,6,2,0.0,0.0,0.0,femoral neck fracture; gait function,exercise; safety; quality of life; cancer; depression
+NCT00822679,3,1,0.0,0.0,0.0,acute coronary syndrome,exercise; safety; quality of life; cancer; depression
+NCT02680496,3,2,0.0,0.0,0.0,energy consumption; stroke [mesh],exercise; safety; quality of life; cancer; depression
+NCT07657962,3,2,0.0,0.0,0.0,autologous free dermal graft; reduction mammaplasty,exercise; safety; quality of life; cancer; depression
+NCT01528462,4,2,0.0,0.0,0.0,"ischemic attack, transient; sleep apnea syndromes",exercise; safety; quality of life; cancer; depression
+NCT06781762,3,1,0.0,0.0,0.0,heart disease risk factors,exercise; safety; quality of life; cancer; depression
+NCT07615062,3,1,0.0,0.0,0.0,cross-education,exercise; safety; quality of life; cancer; depression
+NCT04235946,1,1,0.0,0.0,0.0,adapted physical activity,exercise; safety; quality of life; cancer; depression
+NCT01188746,3,1,0.0,0.0,0.0,10-059,exercise; safety; cancer; depression; mental health
+NCT00439088,3,2,0.0,0.0,0.0,ambulatory monitoring; pedometer,exercise; safety; quality of life; cancer; depression
+NCT03726788,3,1,0.0,0.0,0.0,botulinum toxin,exercise; safety; quality of life; cancer; depression
+NCT06161688,1,1,0.0,0.0,0.0,viral persistence,exercise; safety; quality of life; cancer; depression
+NCT05910203,3,1,0.0,0.0,0.0,smoking,exercise; safety; quality of life; cancer; depression
+NCT05762627,3,2,0.0,0.0,0.0,asthma trajectories; childhood severe asthma,exercise; safety; quality of life; cancer; depression
+NCT06606327,3,1,0.0,0.0,0.0,insulin resistance,exercise; safety; quality of life; cancer; depression
+NCT01064661,3,2,0.0,0.0,0.0,abdominal discomfort; functional bowel disorders,exercise; safety; quality of life; cancer; depression
+NCT06706661,6,3,0.0,0.0,0.0,mortality; multimodal; nutrition risk,exercise; safety; cancer; depression; mental health
+NCT01356342,2,1,0.0,0.0,0.0,influenza,exercise; safety; quality of life; cancer; depression
+NCT06803342,2,1,0.0,0.0,0.0,cad3-sudan vaccine,exercise; safety; quality of life; cancer; depression
+NCT02387086,3,1,0.0,0.0,0.0,egfr mutation,exercise; safety; quality of life; cancer; depression
+NCT04379986,2,1,0.0,0.0,0.0,remote monitoring,exercise; safety; quality of life; cancer; depression
+NCT04091386,2,1,0.0,0.0,0.0,coagulation factor viii,exercise; safety; quality of life; cancer; depression
+NCT01486186,3,2,0.0,0.0,0.0,"humans; pulmonary disease, chronic obstructive",exercise; safety; quality of life; cancer; depression
+NCT04427670,2,1,0.0,0.0,0.0,dysarthia,exercise; safety; quality of life; cancer; depression
+NCT07286370,4,2,0.2,0.5,0.38685280723454163,reactogenicity; safety,exercise; safety; quality of life; cancer; depression
+NCT07298473,11,5,0.0,0.0,0.0,electrophysiology mapping; left atrial ablation; paroxysmal atrial fibrillation; persistent atrial fibrillation; repeat ablation procedures,exercise; safety; quality of life; cancer; depression
+NCT04983069,6,3,0.0,0.0,0.0,lysinuric protein intolerance; medical genetics; nephropathy,exercise; safety; quality of life; cancer; depression
+NCT03994783,1,1,0.0,0.0,0.0,amr,exercise; safety; quality of life; cancer; depression
+NCT06008483,3,2,0.0,0.0,0.0,bone tumor; metastatic cancer to the bone,exercise; safety; quality of life; cancer; depression
+NCT02595983,3,2,0.0,0.0,0.0,attr amyloidosis; familial amyloidotic polyneuropathy,exercise; safety; quality of life; cancer; depression
+NCT04448041,3,1,0.0,0.0,0.0,cancer surgery,exercise; safety; quality of life; cancer; depression
+NCT00161941,2,1,0.0,0.0,0.0,meningococcal vaccine,exercise; safety; quality of life; cancer; depression
+NCT04262154,7,3,0.0,0.0,0.0,atezolizumab; memorial sloan kettering cancer center; stereotactic body radiotherapy,exercise; safety; quality of life; cancer; depression
+NCT00795054,1,1,0.0,0.0,0.0,stem cell transplantation,exercise; safety; quality of life; cancer; depression
+NCT00297154,2,1,0.0,0.0,0.0,metabolic syndrome x,exercise; safety; quality of life; cancer; depression
+NCT02459405,3,2,0.0,0.0,0.0,indocyanine green; near infrared,exercise; safety; quality of life; cancer; depression
+NCT06963905,2,1,0.0,0.0,0.0,cytotoxic chemotherapy,exercise; safety; quality of life; cancer; depression
+NCT00619905,2,1,0.0,0.0,0.0,rheumatoid arthritis,exercise; safety; quality of life; cancer; depression
+NCT01335594,3,1,0.0,0.0,0.0,endoscopy,exercise; safety; quality of life; cancer; depression
+NCT07072494,2,1,0.0,0.0,0.0,cd19,exercise; safety; quality of life; cancer; depression
+NCT01802294,2,1,0.0,0.0,0.0,child,exercise; safety; quality of life; cancer; depression
+NCT01273194,3,2,0.0,0.0,0.0,palliative care; pediatric cancer,exercise; safety; cancer; depression; mental health
+NCT07374666,3,1,0.0,0.0,0.0,mental health,exercise; safety; quality of life; cancer; depression
+NCT00099866,1,1,0.0,0.0,0.0,type 2 diabetes,exercise; safety; quality of life; cancer; depression
+NCT04942366,5,2,0.0,0.0,0.0,physical therapy; strength training,safety; quality of life; cancer; depression; mental health

@@ -1,0 +1,91 @@
+CLINICAL TRIAL DATA QUALITY REPORT
+==================================================
+Dataset: C:\Users\Tejaswini\Documents\Clinical_Trial_Keyword_Recommendation\data\raw\clinical_trials.csv
+Rows: 1000
+Columns: 10
+
+Data types:
+nct_id            str
+title             str
+official_title    str
+status            str
+study_type        str
+phase             str
+conditions        str
+keywords          str
+brief_summary     str
+interventions     str
+
+Duplicate rows:
+0
+
+Duplicate trial IDs:
+0
+
+Empty field counts:
+nct_id              0
+title               0
+official_title     12
+status              0
+study_type          1
+phase             620
+conditions          1
+keywords          355
+brief_summary       1
+interventions      96
+
+Unique values per column:
+nct_id            1000
+title             1000
+official_title     989
+status              11
+study_type           4
+phase                8
+conditions         891
+keywords           646
+brief_summary     1000
+interventions      897
+
+Study status distribution:
+status
+COMPLETED                  560
+UNKNOWN                    160
+RECRUITING                  90
+NOT_YET_RECRUITING          54
+TERMINATED                  52
+ACTIVE_NOT_RECRUITING       46
+WITHDRAWN                   29
+SUSPENDED                    4
+ENROLLING_BY_INVITATION      3
+APPROVED_FOR_MARKETING       1
+WITHHELD                     1
+
+Study type distribution:
+study_type
+INTERVENTIONAL     762
+OBSERVATIONAL      236
+EXPANDED_ACCESS      1
+Unknown              1
+
+Most frequent conditions:
+conditions
+Depression                   16
+Healthy                      16
+Anxiety                      14
+Breast Cancer                11
+Obesity                      11
+Coronary Artery Disease      10
+Hypertension                  9
+Cancer                        9
+Aging                         8
+Heart Failure                 8
+Diabetes                      8
+COVID-19                      7
+Diabetes Mellitus             7
+Rheumatoid Arthritis          6
+Pancreatic Cancer             6
+Prostate Cancer               6
+Pain                          6
+Diabetes Mellitus, Type 2     6
+Stroke                        6
+Stress                        5

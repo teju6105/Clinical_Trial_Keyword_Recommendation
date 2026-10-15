@@ -1,0 +1,22 @@
+FREQUENCY-ADJUSTED CONTENT-BASED RECOMMENDER
+================================================
+Labelled trials: 645
+Unique recorded keywords: 2420
+Title weight: 0.4
+Conditions weight: 0.35
+Summary weight: 0.25
+Minimum similarity: 0.05
+Maximum neighbors: 10
+Maximum recommendations: 10
+
+Method:
+1. Calculate text similarity separately for three fields.
+2. Combine field similarities using fixed weights.
+3. Select similar labelled trials above the threshold.
+4. Score unseen keywords using similarity multiplied by smoothed IDF.
+
+Limitations:
+This is an exploratory recommendation run, not a validated model.
+Text representations and keyword frequencies use the full labelled dataset.
+Do not use these outputs as leakage-free evaluation results.
+Rare keywords are not necessarily more relevant or clinically valid.

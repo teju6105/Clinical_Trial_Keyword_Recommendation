@@ -1,0 +1,32 @@
+CLINICAL TRIAL KEYWORD VOCABULARY SUMMARY
+==================================================
+Total clinical trials: 1000
+Trials with original keywords: 645
+Trials without original keywords: 355
+Unique normalized keywords: 2420
+Total keyword assignments: 2833
+
+Top 20 keywords by trial frequency:
+                    keyword  trial_frequency
+            quality of life               16
+                   exercise               15
+                     safety               14
+                     cancer               11
+                    obesity               10
+                 depression                9
+          physical activity                9
+randomized controlled trial                9
+              heart failure                8
+              mental health                8
+             rehabilitation                7
+        atrial fibrillation                6
+               hypertension                6
+               older adults                6
+                  pediatric                6
+           pharmacokinetics                6
+                     stroke                6
+             immunogenicity                5
+                       pain                5
+                  pregnancy                5
+
+Vocabulary saved to: C:\Users\Tejaswini\Documents\Clinical_Trial_Keyword_Recommendation\data\processed\keyword_vocabulary.csv

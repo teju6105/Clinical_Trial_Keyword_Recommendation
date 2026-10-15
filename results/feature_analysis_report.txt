@@ -1,0 +1,44 @@
+CLINICAL TRIAL FEATURE ANALYSIS
+=======================================================
+Trials: 645
+Keywords: 2420
+Mean keywords per trial: 4.39
+Median keywords per trial: 4.00
+
+KEYWORD FREQUENCY
+Keywords occurring in one trial: 2201
+Keywords occurring in at most three trials: 2383
+Keywords occurring in at least five trials: 21
+
+TRIAL OVERLAP
+Trial pairs with positive similarity: 1031
+Trials connected to another trial: 362
+Trials with no positive-similarity neighbor: 283
+Mean positive cosine similarity: 0.147873
+
+RARE KEYWORD SENSITIVITY ANALYSIS
+Keywords retained when frequency >= 2: 219
+Positive-similarity pairs after filtering: 1031
+
+TOP 20 KEYWORDS
+                    keyword  trial_frequency      idf
+            quality of life               16 1.605440
+                   exercise               15 1.633468
+                     safety               14 1.663432
+                     cancer               11 1.768167
+                    obesity               10 1.809560
+                 depression                9 1.855317
+          physical activity                9 1.855317
+randomized controlled trial                9 1.855317
+              heart failure                8 1.906470
+              mental health                8 1.906470
+             rehabilitation                7 1.964462
+        atrial fibrillation                6 2.031408
+               hypertension                6 2.031408
+               older adults                6 2.031408
+                  pediatric                6 2.031408
+           pharmacokinetics                6 2.031408
+                     stroke                6 2.031408
+             immunogenicity                5 2.110590
+                       pain                5 2.110590
+                  pregnancy                5 2.110590

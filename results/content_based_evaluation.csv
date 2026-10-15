@@ -1,0 +1,223 @@
+nct_id,model,hidden_keyword_count,hidden_keywords,recommended_keywords,precision_at_5,recall_at_5,ndcg_at_5
+NCT07733635,frequency_baseline,2,bronchial asthma; spirometry,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT07733635,content_based,2,bronchial asthma; spirometry,asthma; airway remodelling; airway smooth muscle; eosinophils; extracellular matrix,0.0,0.0,0.0
+NCT03756025,frequency_baseline,2,early childhood caries; glass ionomer cement,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT03756025,content_based,2,early childhood caries; glass ionomer cement,behavior change; cardiovascular health; community-based; early childhood education; family-based,0.0,0.0,0.0
+NCT04752176,frequency_baseline,1,medical device,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT04752176,content_based,1,medical device,quality of life; fdg; lung cancer; pet/ct; respiratory synchronization,0.0,0.0,0.0
+NCT06699576,frequency_baseline,2,phase 1b; soft tissue sarcoma,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT06699576,content_based,2,phase 1b; soft tissue sarcoma,adc; antibody-drug conjugate; cancer; duocarmycin; her2,0.0,0.0,0.0
+NCT07267676,frequency_baseline,1,dental anxiety,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT07267676,content_based,1,dental anxiety,music; nicu; premature infants; premature neonates; preterm infants,0.0,0.0,0.0
+NCT00118976,frequency_baseline,1,albuminuria,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT00118976,content_based,1,albuminuria,diabetic retinopathy; diabetic eye disease; diabetic macular edema; intensive medical therapy; islet cell transplantation,0.0,0.0,0.0
+NCT03615976,frequency_baseline,1,arthroscopy,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT03615976,content_based,1,arthroscopy,total knee arthroplasty; femoral nerve block; local infiltration analgesia; 4 in 1 block; adductor canal block,0.0,0.0,0.0
+NCT03374917,frequency_baseline,1,levodopa,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT03374917,content_based,1,levodopa,alpha-synuclein; mk-0947; neurodegeneration; α-synuclein; exercise,0.0,0.0,0.0
+NCT07397117,frequency_baseline,1,lumbar radiculopathy,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT07397117,content_based,1,lumbar radiculopathy,femoral nerve block; regional anesthesia; brachial plexus block; protective nerve stimulation; sciatic nerve block,0.0,0.0,0.0
+NCT03489317,frequency_baseline,1,stool,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT03489317,content_based,1,stool,exercise; overweight; obesity; children and adolescents; metabolic syndrome,0.0,0.0,0.0
+NCT00388817,frequency_baseline,2,adherence; costs,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT00388817,content_based,2,adherence; costs,adherence; high blood pressure; quality of life; randomized controlled trial; combination therapy,0.2,0.5,0.6131471927654584
+NCT07319117,frequency_baseline,3,l-theanine; magnesium; rhodiola,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT07319117,content_based,3,l-theanine; magnesium; rhodiola,5 new formulation; bioequivalent; food effect; pharmacodynamic; pharmacokinetics,0.0,0.0,0.0
+NCT05065840,frequency_baseline,1,vaccination,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT05065840,content_based,1,vaccination,hiv; immunogenicity; safety; antiretrovirals; cervical cancer,0.0,0.0,0.0
+NCT01743040,frequency_baseline,2,cadence; nuclear stress test,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT01743040,content_based,2,cadence; nuclear stress test,acute coronary syndrome; chest pain; computed tomography coronary angiography; emergency room; stress echocardiography,0.0,0.0,0.0
+NCT01923389,frequency_baseline,2,intravenous; multiple dose,exercise; quality of life; cancer; depression; mental health,0.0,0.0,0.0
+NCT01923389,content_based,2,intravenous; multiple dose,tolerability; pharmacokinetics; first time in human; healthy volunteer; azd5213 phase 1,0.0,0.0,0.0
+NCT04015089,frequency_baseline,1,partially hydrolized protein infant formula,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT04015089,content_based,1,partially hydrolized protein infant formula,"child´s health; microbiota; prebiota; infant; infant, newborn",0.0,0.0,0.0
+NCT05564689,frequency_baseline,1,fractional flow reserve,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT05564689,content_based,1,fractional flow reserve,heart failure; chronic heart failure; actigraphy; acute heart failure; ahf,0.0,0.0,0.0
+NCT01895868,frequency_baseline,2,ultrasound simulation; ultrasound training,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT01895868,content_based,2,ultrasound simulation; ultrasound training,simulation; breast feeding; education; high fidelity simulation training; midwifery,0.0,0.0,0.0
+NCT05281250,frequency_baseline,1,physical condition,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT05281250,content_based,1,physical condition,exercise; obesity; aerobic exercise; emphysematous copd; lood flow restriction (bfr),0.0,0.0,0.0
+NCT07016750,frequency_baseline,1,dystrophic epidermolysis bullosa,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT07016750,content_based,1,dystrophic epidermolysis bullosa,corneal abrasion; corneal infiltrate; optical coherence tomography; safety; tolerability,0.0,0.0,0.0
+NCT00867750,frequency_baseline,2,hcc; yttrium-90,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT00867750,content_based,2,hcc; yttrium-90,lenvatinib; e7080; unresectable hepatocellular carcinoma; child pugh b; pediatric,0.0,0.0,0.0
+NCT06823791,frequency_baseline,1,clarithromycin quadruple regimen,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT06823791,content_based,1,clarithromycin quadruple regimen,antibiotic susceptibility; eradication; helicobacter pylori; third-line therapy; combination therapy,0.0,0.0,0.0
+NCT04429191,frequency_baseline,1,myelodysplastic syndrome,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT04429191,content_based,1,myelodysplastic syndrome,leukemia; cancer; oncology; phase 2; pyronaridine,0.0,0.0,0.0
+NCT05938374,frequency_baseline,2,complications; preoperative radiotherapy,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT05938374,content_based,2,complications; preoperative radiotherapy,concurrent chemoradiation; neoadjuvant chemotherapy; npc; phase 2 clinical trial; midazolam,0.0,0.0,0.0
+NCT01626274,frequency_baseline,2,long term vital signs monitoring; polysomnography,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT01626274,content_based,2,long term vital signs monitoring; polysomnography,obstructive sleep apnea; respiration; sleep; telemonitoring; cpap,0.0,0.0,0.0
+NCT03606174,frequency_baseline,4,antibody drug conjugates; nivolumab; pd-1; vegfr,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT03606174,content_based,4,antibody drug conjugates; nivolumab; pd-1; vegfr,recist guidelines; sunitinib; thyroid carcinoma; anti-angiogenesis; gw786034,0.0,0.0,0.0
+NCT07386418,frequency_baseline,2,angina; placebo-control,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT07386418,content_based,2,angina; placebo-control,des; left main; pci; acute coronary syndrome; chest pain,0.0,0.0,0.0
+NCT04765618,frequency_baseline,1,",bariatric surgery",exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT04765618,content_based,1,",bariatric surgery",effects of bariatric surgery on brain function; reduced glucose insulin changes and brain function; weightloss and brain function; bariatric surgery; nafld,0.0,0.0,0.0
+NCT05856318,frequency_baseline,3,cardiovascular; cvd risk; placental syndrome,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT05856318,content_based,3,cardiovascular; cvd risk; placental syndrome,exercise; diabetes mellitus; biomarkers; hypertension; cardiometabolic health,0.0,0.0,0.0
+NCT07273318,frequency_baseline,1,dry nose,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT07273318,content_based,1,dry nose,"anti-infective agents, local; clinical trial, phase iii; colorectal surgery; glucose oxidase; incisional surgical site infections (ssi)",0.0,0.0,0.0
+NCT00506090,frequency_baseline,1,lasers,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT00506090,content_based,1,lasers,ewing's sarcoma; immunotherapy; interleukin-2; rhabdomyosarcoma; tumor vaccine,0.0,0.0,0.0
+NCT07731490,frequency_baseline,2,implementation science; stepped-wedge,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT07731490,content_based,2,implementation science; stepped-wedge,heart disease; heart failure stage ii; heart failure stage iii; intrusive devices; intrusive sensors,0.0,0.0,0.0
+NCT02991690,frequency_baseline,1,trauma,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT02991690,content_based,1,trauma,autologous bone marrow mononuclear cells; spinal cord injury; stem cell therapy; chronic spinal cord injury; exercise,0.0,0.0,0.0
+NCT05091190,frequency_baseline,2,clearance; pd-l1,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT05091190,content_based,2,clearance; pd-l1,chemotherapy; low-level laser therapy; oral mucositis; photobiomodulation therapy; radiotherapy,0.0,0.0,0.0
+NCT05218590,frequency_baseline,1,nasotracheal intubation,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT05218590,content_based,1,nasotracheal intubation,cancer genetic counseling; educational video; pamphlet; anatomical lung resection; bronchoscopy,0.0,0.0,0.0
+NCT04824690,frequency_baseline,1,anxiety,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT04824690,content_based,1,anxiety,anxiety; cardiovascular surgery; mindfulness; postoperative care; gun violence prevention,0.2,1.0,1.0
+NCT02111590,frequency_baseline,1,"immunoglobulins, subcutaneous",exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT02111590,content_based,1,"immunoglobulins, subcutaneous",avonex; chronic inflammatory demyelinating polyradiculoneuropathy; cidp; ivig; aerobic exercise,0.0,0.0,0.0
+NCT04869397,frequency_baseline,1,respiratory complication,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT04869397,content_based,1,respiratory complication,covid-19 vaccines; health personnel; cell therapy; paediatric liver transplant; flavor,0.0,0.0,0.0
+NCT06400797,frequency_baseline,1,outcome estimation,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT06400797,content_based,1,outcome estimation,collaborative care; pain; telecare; acceptance and commitment therapy; chronic heart failure,0.0,0.0,0.0
+NCT00485797,frequency_baseline,2,"postural control; the focus of the study is to explore the effects of ritalin on postural control in adhd children, during single and dual task conditions.",exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT00485797,content_based,2,"postural control; the focus of the study is to explore the effects of ritalin on postural control in adhd children, during single and dual task conditions.",adhd; cognitive behavioral therapy; parent training; cognition; dual-task,0.0,0.0,0.0
+NCT00994097,frequency_baseline,2,cisplatin; randomized controlled trial,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT00994097,content_based,2,cisplatin; randomized controlled trial,non-small cell lung cancer; nsclc; anlotinib; maintenance therapy; small cell lung cancer,0.0,0.0,0.0
+NCT03676010,frequency_baseline,1,cancer,exercise; safety; quality of life; cancer; depression,0.2,1.0,0.43067655807339306
+NCT03676010,content_based,1,cancer,non-small cell lung cancer; cancer; ml; ptr-ms; voc,0.2,1.0,0.6309297535714575
+NCT01761110,frequency_baseline,2,opioid agonist treatment; opioid dependence,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT01761110,content_based,2,opioid agonist treatment; opioid dependence,hepatitis c prevention; hiv prevention; justice involvement; hope; low-intensity intervention,0.0,0.0,0.0
+NCT00492310,frequency_baseline,1,yoga,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT00492310,content_based,1,yoga,smoking cessation; quality of life; cognitive dissonance; health professional role; health promotion,0.0,0.0,0.0
+NCT03291613,frequency_baseline,2,adolescence; sickle cell disease,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT03291613,content_based,2,adolescence; sickle cell disease,sickle cell; anemia; vaso occlusive crisis; voc; acute chest syndrome (acs),0.0,0.0,0.0
+NCT02138513,frequency_baseline,2,mbct; mindfulness,exercise; safety; quality of life; depression; mental health,0.0,0.0,0.0
+NCT02138513,content_based,2,mbct; mindfulness,depression; mindfulness; acupuncture; child abuse survivors; mindfulness-based stress reduction,0.2,0.5,0.38685280723454163
+NCT05877560,frequency_baseline,2,convergence insufficiency; frontal eye fields,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT05877560,content_based,2,convergence insufficiency; frontal eye fields,neuroplasticity; rehabilitation; cortical mapping; electrophysiology; epilepsy,0.0,0.0,0.0
+NCT03258060,frequency_baseline,2,cardiac resynchronization therapy; electrophysiology,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT03258060,content_based,2,cardiac resynchronization therapy; electrophysiology,chronic heart failure; atrial fibrillation; nt-probnp; heart disease; heart failure stage ii,0.0,0.0,0.0
+NCT03183960,frequency_baseline,2,self-management; support,exercise; safety; cancer; depression; mental health,0.0,0.0,0.0
+NCT03183960,content_based,2,self-management; support,rehabilitation; armeo spring therapy; ischemic stroke; active aging; active older adults,0.0,0.0,0.0
+NCT06189560,frequency_baseline,2,stellate ganglion block; swallowing disorder,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT06189560,content_based,2,stellate ganglion block; swallowing disorder,post-dural puncture headache; sphenopalatine ganglion block; quality of life; 4 in 1 block; adductor canal block,0.0,0.0,0.0
+NCT03667560,frequency_baseline,1,acellular dermal matrix,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT03667560,content_based,1,acellular dermal matrix,aquaporin-1; biobanking; biomarker; dickkopf-3; dkk3,0.0,0.0,0.0
+NCT03673020,frequency_baseline,1,vaccine,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT03673020,content_based,1,vaccine,"vaccine; hematologic neoplasms, lbh589,; panobinostat,; antiretroviral-naïve; broadly neutralizing antibody",0.2,1.0,1.0
+NCT07417020,frequency_baseline,2,acute pancreatitis; endoscopic retrograde cholangiopancreatography,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT07417020,content_based,2,acute pancreatitis; endoscopic retrograde cholangiopancreatography,attempts of cannulation; difficult selective biliary cannulation; double guide wire technique; ercp; post-ercp complications.,0.0,0.0,0.0
+NCT04661020,frequency_baseline,1,large b-cell lymphoma,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT04661020,content_based,1,large b-cell lymphoma,refractory; relapsed; ctdna; diagnostic performance; pet/ct,0.0,0.0,0.0
+NCT03456882,frequency_baseline,2,amyotrophic lateral sclerosis; therapy,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT03456882,content_based,2,amyotrophic lateral sclerosis; therapy,new russian drug; oxaсom; pulmonary arterial hypertension; alzheimer disease; mild cognitive impairment,0.0,0.0,0.0
+NCT02948582,frequency_baseline,1,chronic obstructive pulmonary disease,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT02948582,content_based,1,chronic obstructive pulmonary disease,"anti-infective agents, local; clinical trial, phase iii; colorectal surgery; glucose oxidase; incisional surgical site infections (ssi)",0.0,0.0,0.0
+NCT07168824,frequency_baseline,1,dietary supplement,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT07168824,content_based,1,dietary supplement,quality of life; cognitive function; amputation; chronic pain; alzheimer's disease,0.0,0.0,0.0
+NCT00914524,frequency_baseline,1,diabetic nephropathy,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT00914524,content_based,1,diabetic nephropathy,anti-infective agents; antimalarials; antiparasitic agents; antiprotozoal agents; antirheumatic agents,0.0,0.0,0.0
+NCT07530224,frequency_baseline,1,refractory immune checkpoint inhibitors (ici)-related dermatitis,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT07530224,content_based,1,refractory immune checkpoint inhibitors (ici)-related dermatitis,atopic dermatitis; pediatric; protopic; atopic eczema; children,0.0,0.0,0.0
+NCT01118624,frequency_baseline,1,metastatic,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT01118624,content_based,1,metastatic,"recurrent breast cancer; stage iv breast cancer; antibodies, monoclonal; antineoplastic agent; breast neoplasm",0.0,0.0,0.0
+NCT00554723,frequency_baseline,2,randomized; recovery,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT00554723,content_based,2,randomized; recovery,safety; allergy; immunotherapy; mild to moderate asthma; mites,0.0,0.0,0.0
+NCT07391280,frequency_baseline,2,artificial intelligence; lung cancer,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT07391280,content_based,2,artificial intelligence; lung cancer,emergency department; 75 years old; acetaminophen; analgesics; bone fracture,0.0,0.0,0.0
+NCT05923580,frequency_baseline,2,adherence to treatment; quality of life,exercise; safety; quality of life; cancer; depression,0.2,0.5,0.3065735963827292
+NCT05923580,content_based,2,adherence to treatment; quality of life,acute coronary syndrome; chest pain; computed tomography coronary angiography; emergency room; stress echocardiography,0.0,0.0,0.0
+NCT03263780,frequency_baseline,2,hifu; high resolution diffusion-weighted imaging,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT03263780,content_based,2,hifu; high resolution diffusion-weighted imaging,adenocarcinoma of the prostate; recurrent prostate cancer; stage iv prostate cancer; stage iia prostate cancer; stage iib prostate cancer,0.0,0.0,0.0
+NCT04037280,frequency_baseline,1,posology,safety; quality of life; cancer; depression; mental health,0.0,0.0,0.0
+NCT04037280,content_based,1,posology,stress incontinence; urodynamics; videourodynamics; acceptability; assessment,0.0,0.0,0.0
+NCT01437280,frequency_baseline,1,solid tumors,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT01437280,content_based,1,solid tumors,recurrent breast cancer; stage iv breast cancer; adenocarcinoma of the pancreas; stage i pancreatic cancer; stage ii pancreatic cancer,0.0,0.0,0.0
+NCT00913679,frequency_baseline,2,femoral neck fracture; gait function,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT00913679,content_based,2,femoral neck fracture; gait function,total knee arthroplasty; depuysynthes; direct anterior approach hip replacement; fracture table; posterior approach hip replacement,0.0,0.0,0.0
+NCT00822679,frequency_baseline,1,acute coronary syndrome,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT00822679,content_based,1,acute coronary syndrome,acute coronary syndrome; chest pain; computed tomography coronary angiography; emergency room; stress echocardiography,0.2,1.0,1.0
+NCT02680496,frequency_baseline,2,energy consumption; stroke [mesh],exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT02680496,content_based,2,energy consumption; stroke [mesh],armeo spring therapy; ischemic stroke; quality of life; rehabilitation; anticoagulation,0.0,0.0,0.0
+NCT07657962,frequency_baseline,2,autologous free dermal graft; reduction mammaplasty,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT07657962,content_based,2,autologous free dermal graft; reduction mammaplasty,recurrent breast cancer; stage iv breast cancer; autologous; fibroblasts; skin aging,0.0,0.0,0.0
+NCT01528462,frequency_baseline,2,"ischemic attack, transient; sleep apnea syndromes",exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT01528462,content_based,2,"ischemic attack, transient; sleep apnea syndromes",obstructive sleep apnea; cpap; telemedicine; telemonitoring; titration,0.0,0.0,0.0
+NCT06781762,frequency_baseline,1,heart disease risk factors,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT06781762,content_based,1,heart disease risk factors,recurrent breast cancer; stage iv breast cancer; adiposity; breast density; breast neoplasms,0.0,0.0,0.0
+NCT07615062,frequency_baseline,1,cross-education,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT07615062,content_based,1,cross-education,quality of life; block-building activities; cognitive function; grip strength; hand dexterity,0.0,0.0,0.0
+NCT04235946,frequency_baseline,1,adapted physical activity,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT04235946,content_based,1,adapted physical activity,mental health; exercise; physical activity; fatigue; adiposity,0.0,0.0,0.0
+NCT01188746,frequency_baseline,1,10-059,exercise; safety; cancer; depression; mental health,0.0,0.0,0.0
+NCT01188746,content_based,1,10-059,amputation; chronic pain; armeo spring therapy; ischemic stroke; rehabilitation,0.0,0.0,0.0
+NCT00439088,frequency_baseline,2,ambulatory monitoring; pedometer,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT00439088,content_based,2,ambulatory monitoring; pedometer,activity capacity; activity performance; cerebral palsy; participation; physical activity,0.0,0.0,0.0
+NCT03726788,frequency_baseline,1,botulinum toxin,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT03726788,content_based,1,botulinum toxin,botulinum toxin a; clinical crown length; clinical crown lengthening surgery; gingival exposure; gummy smile,0.0,0.0,0.0
+NCT06161688,frequency_baseline,1,viral persistence,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT06161688,content_based,1,viral persistence,covid-19 vaccines; health personnel; cardiovascular disease; general population; psychological impact,0.0,0.0,0.0
+NCT05910203,frequency_baseline,1,smoking,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT05910203,content_based,1,smoking,smoking cessation; cognitive dissonance; health professional role; health promotion; lifestyle,0.0,0.0,0.0
+NCT05762627,frequency_baseline,2,asthma trajectories; childhood severe asthma,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT05762627,content_based,2,asthma trajectories; childhood severe asthma,"asthma; influenza a virus, h1n1 subtype; vaccine; airway remodelling; airway smooth muscle",0.0,0.0,0.0
+NCT06606327,frequency_baseline,1,insulin resistance,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT06606327,content_based,1,insulin resistance,brown adipose tissue; insulin receptors; liothyronine; insulin pump; glucose tolerance,0.0,0.0,0.0
+NCT01064661,frequency_baseline,2,abdominal discomfort; functional bowel disorders,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT01064661,content_based,2,abdominal discomfort; functional bowel disorders,nissle 1917; probiotic; uropathogen; musculoskeletal pain; chronic pain,0.0,0.0,0.0
+NCT06706661,frequency_baseline,3,mortality; multimodal; nutrition risk,exercise; safety; cancer; depression; mental health,0.0,0.0,0.0
+NCT06706661,content_based,3,mortality; multimodal; nutrition risk,nutrition; screening; adjuvant therapy; ecog performance status; octogenarians,0.0,0.0,0.0
+NCT01356342,frequency_baseline,1,influenza,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT01356342,content_based,1,influenza,"safety; influenza a virus, h1n1 subtype; adults; children; epilepsy",0.0,0.0,0.0
+NCT06803342,frequency_baseline,1,cad3-sudan vaccine,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT06803342,content_based,1,cad3-sudan vaccine,safety; vaccine; tolerability; first time in human; healthy volunteer,0.0,0.0,0.0
+NCT02387086,frequency_baseline,1,egfr mutation,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT02387086,content_based,1,egfr mutation,non-small cell lung cancer; advanced metastatic non-small cell lung cancer; datopotamab deruxtecan; ds-1062a; metastatic non-small cell lung cancer,0.0,0.0,0.0
+NCT04379986,frequency_baseline,1,remote monitoring,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT04379986,content_based,1,remote monitoring,covid-19 vaccines; health personnel; blood pressure monitoring; clinical hypnosis; hypertension,0.0,0.0,0.0
+NCT04091386,frequency_baseline,1,coagulation factor viii,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT04091386,content_based,1,coagulation factor viii,active classroom; school-based intervention; exercise; anemia; chronic kidney disease,0.0,0.0,0.0
+NCT01486186,frequency_baseline,2,"humans; pulmonary disease, chronic obstructive",exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT01486186,content_based,2,"humans; pulmonary disease, chronic obstructive",copd; hfnc; high flow nasal cannula; oxygen; pulmonary rehabilitation,0.0,0.0,0.0
+NCT04427670,frequency_baseline,1,dysarthia,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT04427670,content_based,1,dysarthia,nurse; post-traumatic stress; therapy; arabic; cat-clams,0.0,0.0,0.0
+NCT07286370,frequency_baseline,2,reactogenicity; safety,exercise; safety; quality of life; cancer; depression,0.2,0.5,0.38685280723454163
+NCT07286370,content_based,2,reactogenicity; safety,safety; booster vaccination; human immunodeficiency virus; pneumococcal disease; pneumococcal vaccine,0.2,0.5,0.6131471927654584
+NCT07298473,frequency_baseline,5,electrophysiology mapping; left atrial ablation; paroxysmal atrial fibrillation; persistent atrial fibrillation; repeat ablation procedures,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT07298473,content_based,5,electrophysiology mapping; left atrial ablation; paroxysmal atrial fibrillation; persistent atrial fibrillation; repeat ablation procedures,catheter ablation; complex fractionate electrograms; ablation; cryoablation; heart failure,0.0,0.0,0.0
+NCT04983069,frequency_baseline,3,lysinuric protein intolerance; medical genetics; nephropathy,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT04983069,content_based,3,lysinuric protein intolerance; medical genetics; nephropathy,antenatal period; breast milk; breastfeeding education; breastfeeding self-efficacy perception; breastfeeding success,0.0,0.0,0.0
+NCT03994783,frequency_baseline,1,amr,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT03994783,content_based,1,amr,"hiv; ahf,; relax-ahf-eu; renal impairment; rlx030,",0.0,0.0,0.0
+NCT06008483,frequency_baseline,2,bone tumor; metastatic cancer to the bone,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT06008483,content_based,2,bone tumor; metastatic cancer to the bone,angioimmunoblastic t-cell lymphoma; acl; tunnel; widening; antiresorptive agents,0.0,0.0,0.0
+NCT02595983,frequency_baseline,2,attr amyloidosis; familial amyloidotic polyneuropathy,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT02595983,content_based,2,attr amyloidosis; familial amyloidotic polyneuropathy,cell therapy; paediatric liver transplant; bariatric surgery; nafld; nash,0.0,0.0,0.0
+NCT04448041,frequency_baseline,1,cancer surgery,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT04448041,content_based,1,cancer surgery,screening; nutrition; cancer; hope; low-intensity intervention,0.0,0.0,0.0
+NCT00161941,frequency_baseline,1,meningococcal vaccine,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT00161941,content_based,1,meningococcal vaccine,safety; boosting dose; dtap-ipv; healthy adults; observational study,0.0,0.0,0.0
+NCT04262154,frequency_baseline,3,atezolizumab; memorial sloan kettering cancer center; stereotactic body radiotherapy,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT04262154,content_based,3,atezolizumab; memorial sloan kettering cancer center; stereotactic body radiotherapy,focal boost; prostate; sbrt (stereotactic body radiotherapy); stage iia prostate cancer; stage iib prostate cancer,0.0,0.0,0.0
+NCT00795054,frequency_baseline,1,stem cell transplantation,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT00795054,content_based,1,stem cell transplantation,aerobic capacity; exercise; fatigue; prehabilitation; quality of life,0.0,0.0,0.0
+NCT00297154,frequency_baseline,1,metabolic syndrome x,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT00297154,content_based,1,metabolic syndrome x,heart failure; chronic heart failure; exercise; atrial fibrillation; nt-probnp,0.0,0.0,0.0
+NCT02459405,frequency_baseline,2,indocyanine green; near infrared,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT02459405,content_based,2,indocyanine green; near infrared,colorectal skills training; laparoscopic colectomy; near infrared; peripheral intravenous catheter; ultrasound,0.2,0.5,0.3065735963827292
+NCT06963905,frequency_baseline,1,cytotoxic chemotherapy,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT06963905,content_based,1,cytotoxic chemotherapy,brain metastasis; hbi-8000; melanoma; nivolumab; recurrent breast cancer,0.0,0.0,0.0
+NCT00619905,frequency_baseline,1,rheumatoid arthritis,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT00619905,content_based,1,rheumatoid arthritis,interferon beta-1a; pharmacodynamics; pharmacokinetics; volunteers; burning pain,0.0,0.0,0.0
+NCT01335594,frequency_baseline,1,endoscopy,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT01335594,content_based,1,endoscopy,obstructive sleep apnea; cpap; telemedicine; telemonitoring; titration,0.0,0.0,0.0
+NCT07072494,frequency_baseline,1,cd19,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT07072494,content_based,1,cd19,leukemia; cancer; oncology; phase 2; pyronaridine,0.0,0.0,0.0
+NCT01802294,frequency_baseline,1,child,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT01802294,content_based,1,child,mental health; nurse; hope; low-intensity intervention; palliative,0.0,0.0,0.0
+NCT01273194,frequency_baseline,2,palliative care; pediatric cancer,exercise; safety; cancer; depression; mental health,0.0,0.0,0.0
+NCT01273194,content_based,2,palliative care; pediatric cancer,advanced chronic disease; care pathways; emergency department; palliative care; collaborative care,0.2,0.5,0.2640681225725909
+NCT07374666,frequency_baseline,1,mental health,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT07374666,content_based,1,mental health,mental health; acupuncture; child abuse survivors; depression; mindfulness-based stress reduction,0.2,1.0,1.0
+NCT00099866,frequency_baseline,1,type 2 diabetes,exercise; safety; quality of life; cancer; depression,0.0,0.0,0.0
+NCT00099866,content_based,1,type 2 diabetes,diabetes mellitus; insulin pump; cognition; dual-task; type ii diabetes mellitus,0.0,0.0,0.0
+NCT04942366,frequency_baseline,2,physical therapy; strength training,safety; quality of life; cancer; depression; mental health,0.0,0.0,0.0
+NCT04942366,content_based,2,physical therapy; strength training,high-intensity interval training; exercise oncology; randomized controlled trial; upper gastrointestinal cancers; obesity,0.0,0.0,0.0

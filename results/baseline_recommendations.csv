@@ -1,0 +1,2421 @@
+rank,keyword,trial_frequency
+1,quality of life,16
+2,exercise,15
+3,safety,14
+4,cancer,11
+5,obesity,10
+6,depression,9
+7,physical activity,9
+8,randomized controlled trial,9
+9,heart failure,8
+10,mental health,8
+11,rehabilitation,7
+12,atrial fibrillation,6
+13,hypertension,6
+14,older adults,6
+15,pediatric,6
+16,pharmacokinetics,6
+17,stroke,6
+18,immunogenicity,5
+19,pain,5
+20,pregnancy,5
+21,vaccine,5
+22,biomarkers,4
+23,blood pressure,4
+24,coronary artery disease,4
+25,diabetes mellitus,4
+26,fatigue,4
+27,glioma,4
+28,immunotherapy,4
+29,leukemia,4
+30,lung cancer,4
+31,mindfulness,4
+32,nsclc,4
+33,optical coherence tomography,4
+34,radiotherapy,4
+35,surgery,4
+36,ultrasound,4
+37,women,4
+38,adherence,3
+39,adolescent,3
+40,aml,3
+41,anemia,3
+42,anxiety,3
+43,asthma,3
+44,body composition,3
+45,brain tumor,3
+46,children,3
+47,cognition,3
+48,copd,3
+49,diabetic retinopathy,3
+50,elderly,3
+51,epilepsy,3
+52,hiv,3
+53,insulin resistance,3
+54,lifestyle,3
+55,mild cognitive impairment,3
+56,natural history,3
+57,non-small cell lung cancer,3
+58,nutrition,3
+59,oncology,3
+60,overweight,3
+61,pd-l1,3
+62,postoperative pain,3
+63,screening,3
+64,self-efficacy,3
+65,smoking,3
+66,solid tumor,3
+67,solid tumors,3
+68,type 1 diabetes,3
+69,virtual reality,3
+70,acceptance and commitment therapy,2
+71,acne,2
+72,acute coronary syndrome,2
+73,acz885,2
+74,adc,2
+75,adolescence,2
+76,adults,2
+77,amputation,2
+78,angioimmunoblastic t-cell lymphoma,2
+79,anti-inflammatory therapy,2
+80,artificial intelligence,2
+81,atopic dermatitis,2
+82,attention,2
+83,attention deficit hyperactivity disorder (adhd),2
+84,autoimmune diseases,2
+85,balance,2
+86,biomarker,2
+87,bipolar depression,2
+88,bipolar disorder,2
+89,brain injury,2
+90,cardiovascular disease,2
+91,cd19,2
+92,cesarean delivery,2
+93,chemotherapy,2
+94,chronic heart failure,2
+95,chronic pain,2
+96,cognitive behavioral therapy,2
+97,cognitive function,2
+98,cognitive impairment,2
+99,colorectal surgery,2
+100,complications,2
+101,continuous glucose monitoring,2
+102,cost-effectiveness,2
+103,costs,2
+104,covid-19,2
+105,crohn disease,2
+106,dementia,2
+107,diabetic nephropathy,2
+108,diagnosis,2
+109,diastolic dysfunction,2
+110,education,2
+111,efficacy,2
+112,electrophysiology,2
+113,emergency department,2
+114,endoscopy,2
+115,femoral nerve block,2
+116,fmri,2
+117,gbm,2
+118,general anesthesia,2
+119,glioblastoma,2
+120,health related quality of life,2
+121,healthy volunteer,2
+122,heart disease,2
+123,high intensity interval training,2
+124,high-intensity interval training,2
+125,human immunodeficiency virus,2
+126,hypoglycemia,2
+127,immobilization,2
+128,infants,2
+129,influenza,2
+130,insulin pump,2
+131,interferon beta-1a,2
+132,interferon-alpha,2
+133,intervention,2
+134,ischemic stroke,2
+135,lenvatinib,2
+136,liquid biopsy,2
+137,magnesium,2
+138,magnetic resonance imaging (mri),2
+139,malnutrition,2
+140,mds,2
+141,medical device,2
+142,metastatic,2
+143,metastatic prostate cancer,2
+144,midazolam,2
+145,mortality,2
+146,multiple sclerosis,2
+147,muscle strength,2
+148,musculoskeletal pain,2
+149,near infrared,2
+150,neoplasms,2
+151,neurosurgery,2
+152,nivolumab,2
+153,nt-probnp,2
+154,nurse,2
+155,obstructive sleep apnea,2
+156,ofatumumab,2
+157,orthostatic intolerance,2
+158,oxytocin,2
+159,palliative,2
+160,palliative care,2
+161,perinatal mortality,2
+162,pet/ct,2
+163,physical condition,2
+164,physical therapy,2
+165,physiotherapy,2
+166,positron-emission tomography,2
+167,postpartum,2
+168,prematurity,2
+169,preterm infants,2
+170,probiotics,2
+171,propofol,2
+172,psoriasis,2
+173,psychotherapy,2
+174,randomised controlled trial,2
+175,recovery,2
+176,recurrent adult acute myeloid leukemia,2
+177,recurrent adult hodgkin lymphoma,2
+178,recurrent breast cancer,2
+179,refractory chronic lymphocytic leukemia,2
+180,regional anesthesia,2
+181,relapsed,2
+182,rituximab,2
+183,rotator cuff,2
+184,sickle cell,2
+185,simulation,2
+186,skin aging,2
+187,sleep disorders,2
+188,small cell lung cancer,2
+189,smoking cessation,2
+190,soft tissue sarcoma,2
+191,solid,2
+192,stage iv breast cancer,2
+193,supported education,2
+194,supported employment,2
+195,survival,2
+196,symptoms,2
+197,telemedicine,2
+198,telemonitoring,2
+199,therapy,2
+200,tinnitus,2
+201,tolerability,2
+202,total knee arthroplasty,2
+203,transcranial direct current stimulation,2
+204,transplantation,2
+205,trastuzumab,2
+206,treatment,2
+207,treatment outcome,2
+208,tuberculosis,2
+209,tumor,2
+210,type 2 diabetes,2
+211,ulcerative colitis,2
+212,"unspecified adult solid tumor, protocol specific",2
+213,"unspecified childhood solid tumor, protocol specific",2
+214,untreated adult acute myeloid leukemia,2
+215,vaccination,2
+216,validation,2
+217,vascular function,2
+218,voc,2
+219,yoga,2
+220,(poly)phenols,1
+221,",bariatric surgery",1
+222,10-059,1
+223,131i-mibg,1
+224,16)(p13,1
+225,18f-fluciclovine,1
+226,19-461,1
+227,21)(q22,1
+228,2141-v11,1
+229,3d cardiac mapping,1
+230,4 in 1 block,1
+231,5 new formulation,1
+232,6-mercaptopurine,1
+233,6-mp,1
+234,6-thioguanine,1
+235,75 years old,1
+236,a diagnosis of stable plaque-type psoriasis vulgaris,1
+237,aadc,1
+238,aav9,1
+239,abdominal discomfort,1
+240,abdominal pain,1
+241,abdominal surgery,1
+242,abiraterone acetate,1
+243,ablation,1
+244,abortion,1
+245,abpa,1
+246,absolute coronary flow,1
+247,abuse,1
+248,academic stress,1
+249,accelerated phase chronic myelogenous leukemia,1
+250,acceptability,1
+251,access to care,1
+252,accuracy,1
+253,acellular dermal matrix,1
+254,acetaminophen,1
+255,acl,1
+256,acromegaly,1
+257,actigraphy,1
+258,active aging,1
+259,active classroom,1
+260,active older adults,1
+261,active warming,1
+262,activities of daily living,1
+263,activity capacity,1
+264,activity performance,1
+265,acupuncture,1
+266,acute chest syndrome (acs),1
+267,acute heart failure,1
+268,acute ischemic stroke,1
+269,"acute ischemic stroke, thrombectomy",1
+270,acute lymphoblastic leukemia,1
+271,acute myeloid leukemia,1
+272,acute myeloid leukemia with multilineage dysplasia following myelodysplastic syndrome,1
+273,acute myocardial infarction,1
+274,acute pain,1
+275,acute pancreatitis,1
+276,adalimumab,1
+277,adapted physical activity,1
+278,adaptive radiation,1
+279,addiction,1
+280,additional spermicidal lubricant,1
+281,adductor canal block,1
+282,adenocarcinoma,1
+283,adenocarcinoma of the pancreas,1
+284,adenocarcinoma of the prostate,1
+285,adenoma,1
+286,adenovirus,1
+287,adhd,1
+288,adherence to treatment,1
+289,adhesions,1
+290,adiposity,1
+291,adjuvant,1
+292,adjuvant therapy,1
+293,"adolescence, young adulthood",1
+294,adolescent idiopathic scoliosis,1
+295,adoptive cellular immunotherapy,1
+296,adriamycin,1
+297,adriamycin pfs,1
+298,adriamycin rdf,1
+299,adult,1
+300,adult acute basophilic leukemia,1
+301,adult acute eosinophilic leukemia,1
+302,adult acute megakaryoblastic leukemia (m7),1
+303,adult acute minimally differentiated myeloid leukemia (m0),1
+304,adult acute monoblastic leukemia (m5a),1
+305,adult acute monocytic leukemia (m5b),1
+306,adult acute myeloblastic leukemia with maturation (m2),1
+307,adult acute myeloblastic leukemia without maturation (m1),1
+308,adult acute myeloid leukemia with 11q23 (mll) abnormalities,1
+309,adult acute myeloid leukemia with inv(16)(p13,1
+310,adult acute myeloid leukemia with t(16,1
+311,adult acute myeloid leukemia with t(8,1
+312,adult acute myelomonocytic leukemia (m4),1
+313,adult erythroleukemia (m6a),1
+314,adult pure erythroid leukemia (m6b),1
+315,advanced,1
+316,advanced cancer,1
+317,advanced chronic disease,1
+318,advanced estrogen receptor positive breast cancer,1
+319,advanced metastatic non-small cell lung cancer,1
+320,advanced non-small cell lung cancer,1
+321,advanced solid tumors,1
+322,aerobic capacity,1
+323,aerobic exercise,1
+324,aesthetic outcome,1
+325,affera ablation system,1
+326,affera mapping system,1
+327,afferent sensory innervation,1
+328,aflibercept,1
+329,africa,1
+330,after receiving bone marrow transplantation,1
+331,age,1
+332,aggressive intravenous hydration,1
+333,aging,1
+334,agricultural worker,1
+335,ahf,1
+336,"ahf,",1
+337,aids-related peripheral/systemic lymphoma,1
+338,aids-related primary cns lymphoma,1
+339,air pollution,1
+340,airway inflammation,1
+341,airway management,1
+342,airway remodelling,1
+343,airway smooth muscle,1
+344,ajcc/uicc v. 8 stages ii-iiia and iiib (t>5cm n2),1
+345,akt inhibitor,1
+346,albuminuria,1
+347,all,1
+348,allergen challenge,1
+349,allergen exposure chamber,1
+350,allergen-specific immunotherapy,1
+351,allergic asthma,1
+352,allergic rhinoconjunctivitis,1
+353,allergy,1
+354,allopurinol,1
+355,alopecia areata,1
+356,alpha subunit (scn8a),1
+357,alpha-synuclein,1
+358,alternative therapy,1
+359,alveolar bone height,1
+360,alveolar recruitment,1
+361,alzheimer disease,1
+362,alzheimer's disease,1
+363,alzheimers' disease,1
+364,ambroxol,1
+365,ambulance,1
+366,ambulation,1
+367,ambulatory monitoring,1
+368,american society of anesthesiologists physical status,1
+369,amlodipine,1
+370,amputee,1
+371,amr,1
+372,amygdala electrophysiology,1
+373,amyotrophic lateral sclerosis,1
+374,anal cancer,1
+375,analgesia,1
+376,analgesics,1
+377,anaplastic astrocytoma,1
+378,anaplastic large cell lymphoma,1
+379,anaplastic oligoastrocytoma,1
+380,anaplastic oligodendroglioma,1
+381,anastomotic leak,1
+382,anatomical lung resection,1
+383,anemia screening,1
+384,anesthesia induction,1
+385,angina,1
+386,angiogenesis,1
+387,angiography,1
+388,angiotensin ii receptor blocker,1
+389,ankylosing spondylitis,1
+390,anlotinib,1
+391,annual health check-up,1
+392,anorexia nervosa,1
+393,antegrade nailing,1
+394,antenatal,1
+395,antenatal period,1
+396,anterior blepharitis,1
+397,anthocyanins,1
+398,anti tnf alpha,1
+399,anti-angiogenesis,1
+400,anti-cancer drug,1
+401,anti-diabetic drugs,1
+402,anti-infective agents,1
+403,"anti-infective agents, local",1
+404,anti-interleukin-1 beta,1
+405,anti-slamf7 chimeric antigen receptor t cells,1
+406,antibiotic prophylaxis,1
+407,antibiotic susceptibility,1
+408,antibiotic therapy,1
+409,"antibodies, monoclonal",1
+410,antibody drug conjugates,1
+411,antibody-drug conjugate,1
+412,anticoagulant drugs,1
+413,anticoagulation,1
+414,anticoagulation efficacy,1
+415,antidepressant therapy,1
+416,antiepileptic drugs,1
+417,antimalarials,1
+418,antineoplastic agent,1
+419,antineoplastic agents,1
+420,antiparasitic agents,1
+421,antiprotozoal agents,1
+422,antiresorptive agents,1
+423,antiretroviral-naïve,1
+424,antiretrovirals,1
+425,antirheumatic agents,1
+426,antiviral,1
+427,aorta,1
+428,apheresis,1
+429,apnea,1
+430,aquaporin-1,1
+431,ara-c,1
+432,arabic,1
+433,armeo spring therapy,1
+434,aromatase inhibitors,1
+435,"aromatherapy, vasomotor symptoms",1
+436,arrhythmias,1
+437,art,1
+438,arthritis,1
+439,"arthritis, rheumatoid, stem cells, mesenchymal, autoimmune",1
+440,arthroscopic rotator cuff repair,1
+441,arthroscopy,1
+442,arthrosis,1
+443,arzerra,1
+444,asd,1
+445,asia,1
+446,aspirin,1
+447,assessment,1
+448,asthma trajectories,1
+449,astx727,1
+450,at-risk,1
+451,atezolizumab,1
+452,athlete,1
+453,athletes,1
+454,"atopic dermatitis, eczema, mild to moderate, children, iga",1
+455,atopic eczema,1
+456,atraumatic restorative treatment,1
+457,atrial systole,1
+458,attempts of cannulation,1
+459,"attenuated, prodromal psychotic symptoms",1
+460,attitudes,1
+461,attr amyloidosis,1
+462,aural fullness,1
+463,auricle,1
+464,auricular nerve,1
+465,auriculotemporal nerve,1
+466,australia,1
+467,autism spectrum disorder,1
+468,autobiographical narrative,1
+469,autologous,1
+470,autologous bone marrow mononuclear cells,1
+471,autologous free dermal graft,1
+472,autologous stem cell transplantation,1
+473,autologous t cells,1
+474,autonomic nervous system,1
+475,avastin,1
+476,avonex,1
+477,azd0486,1
+478,azd5213 phase 1,1
+479,b-cell acute lymphoblastic leukemia,1
+480,b-cell chronic lymphocytic leukemia,1
+481,b-lymphocytes,1
+482,b7-h3,1
+483,back to work,1
+484,backup ventilation,1
+485,balance performance,1
+486,bar,1
+487,bariatric surgery,1
+488,basal cell carcinoma,1
+489,basaloid carcinoma of the anus,1
+490,baska mask,1
+491,battery depletion,1
+492,bed sores,1
+493,bedsore,1
+494,behavior,1
+495,behavior change,1
+496,behavioral health,1
+497,behavioural activation,1
+498,behavioural intervention,1
+499,best rest,1
+500,beta-adrenoceptor blocker,1
+501,beta-adrenoceptors,1
+502,bevacizumab,1
+503,bfpet,1
+504,biobanking,1
+505,"biodegradable stent, pad",1
+506,bioequivalence,1
+507,bioequivalence study,1
+508,bioequivalent,1
+509,biogen,1
+510,bioimpedance analysis,1
+511,biologic caries management,1
+512,biologics,1
+513,biomarker assessment,1
+514,biomechanics,1
+515,"bipolar disorder, with psychotic features",1
+516,birth weight,1
+517,bkm120,1
+518,black seed oil,1
+519,blastic phase chronic myelogenous leukemia,1
+520,bloating,1
+521,block-building activities,1
+522,blood loss,1
+523,"blood loss, surgical",1
+524,blood pressure monitoring,1
+525,blood supply,1
+526,blood transfusion,1
+527,blueberries,1
+528,bolus calculator,1
+529,bone cancer,1
+530,bone density,1
+531,bone fracture,1
+532,bone marrow cells,1
+533,bone marrow transplant,1
+534,bone marrow transplantation,1
+535,bone marrow-derived stem cell,1
+536,bone mineral density,1
+537,bone morphometry,1
+538,bone tumor,1
+539,booster vaccination,1
+540,boosting dose,1
+541,botulinum toxin,1
+542,botulinum toxin a,1
+543,boxer,1
+544,brachial plexus block,1
+545,brachytherapy,1
+546,braf mutation,1
+547,brain concussion,1
+548,brain disease,1
+549,brain edema,1
+550,brain function,1
+551,brain functions,1
+552,"brain hemorrhage, traumatic",1
+553,brain injuries,1
+554,brain invasion,1
+555,brain metastasis,1
+556,brain monitoring,1
+557,brain organoids,1
+558,breakfast,1
+559,breast,1
+560,breast cancer females,1
+561,breast density,1
+562,breast feeding,1
+563,breast milk,1
+564,breast neoplasm,1
+565,breast neoplasms,1
+566,breast reconstruction,1
+567,breast surgery,1
+568,breastfeeding,1
+569,breastfeeding cradle,1
+570,breastfeeding education,1
+571,breastfeeding self-efficacy,1
+572,breastfeeding self-efficacy perception,1
+573,breastfeeding success,1
+574,brief intervention,1
+575,broadly neutralizing antibody,1
+576,bronchial asthma,1
+577,bronchoscopic lung volume reduction (blvr),1
+578,bronchoscopy,1
+579,brown adipose tissue,1
+580,bupivacaine,1
+581,buprenorphine,1
+582,bupropion,1
+583,burn pain,1
+584,burning pain,1
+585,cabg coronary artery bypass grafting,1
+586,cad3-sudan vaccine,1
+587,cadence,1
+588,calcium,1
+589,canakinumab,1
+590,canaloplasty,1
+591,cancer genetic counseling,1
+592,cancer related fatigue,1
+593,cancer surgery,1
+594,cancer vaccine,1
+595,canine root resorption,1
+596,capsule bag,1
+597,car-t,1
+598,carbidopa,1
+599,carbohydrate to insulin ratio,1
+600,carbon-ion radiotherapy,1
+601,carboplatin,1
+602,"carcinoma, non-small cell lung",1
+603,cardiac,1
+604,cardiac arrest,1
+605,cardiac dysfunction,1
+606,cardiac fibrosis,1
+607,cardiac glycosides,1
+608,cardiac hypertrophy,1
+609,cardiac output,1
+610,cardiac rehabilitation,1
+611,cardiac resynchronization therapy,1
+612,cardiac telerehabilitation,1
+613,cardiometabolic,1
+614,cardiometabolic health,1
+615,cardioprotection,1
+616,cardiopulmonary resuscitation,1
+617,cardiorespiratory load,1
+618,cardiovascular,1
+619,cardiovascular health,1
+620,cardiovascular risk factor,1
+621,cardiovascular surgery,1
+622,care pathway,1
+623,care pathways,1
+624,caregiver burden,1
+625,caregiver burnout,1
+626,caregiving,1
+627,carotid plaque inflammation,1
+628,castrate-resistant prostate cancer with bone metastasis,1
+629,cat-clams,1
+630,catheter,1
+631,catheter ablation,1
+632,cbd,1
+633,ced,1
+634,cefar tens,1
+635,cell therapy,1
+636,cell-free rna,1
+637,central nervous system (cns) gene therapy,1
+638,central nervous system disease,1
+639,central venous saturation,1
+640,cerebral and splanchnic oxygenation,1
+641,cerebral infarct,1
+642,cerebral palsy,1
+643,cerebrospinal fluid shunts,1
+644,cerebrovascular disorder,1
+645,cerubidine,1
+646,cervical cancer,1
+647,cervical spinal cord injury,1
+648,cesarean birth,1
+649,cesarean delivery with spinal anesthesia,1
+650,cesarean section,1
+651,cgb3002,1
+652,challenging behaviour,1
+653,chart,1
+654,chatbot intervention,1
+655,checkpoint inhibitors,1
+656,chemical exposure,1
+657,chemo brain,1
+658,chemobrain,1
+659,chest pain,1
+660,chest x-ray,1
+661,chf,1
+662,child,1
+663,child abuse survivors,1
+664,child development,1
+665,child health,1
+666,child physical abuse,1
+667,child pugh b,1
+668,childbirth,1
+669,childhood burkitt lymphoma,1
+670,childhood central nervous system choriocarcinoma,1
+671,childhood central nervous system germ cell tumor,1
+672,childhood central nervous system germinoma,1
+673,childhood central nervous system mixed germ cell tumor,1
+674,childhood central nervous system teratoma,1
+675,childhood central nervous system yolk sac tumor,1
+676,childhood diffuse large cell lymphoma,1
+677,childhood grade iii lymphomatoid granulomatosis,1
+678,childhood immunoblastic large cell lymphoma,1
+679,childhood nasal type extranodal nk/t-cell lymphoma,1
+680,childhood nodular lymphocyte predominant hodgkin lymphoma,1
+681,childhood pineal parenchymal tumor,1
+682,childhood severe asthma,1
+683,children and adolescents,1
+684,child´s health,1
+685,chimeric antigen receptor t-cell immunotherapy,1
+686,chimeric antigen receptor t-cell therapy,1
+687,china,1
+688,chinese herbal,1
+689,cholangiocarcinoma,1
+690,cholera,1
+691,choroidal neovascularization due to amd,1
+692,chronic bronchitis,1
+693,chronic glomerulonephritis,1
+694,"chronic heart failure, adherence, registry",1
+695,chronic hepatitis c,1
+696,chronic idiopathic urticaria,1
+697,chronic inflammatory demyelinating polyradiculoneuropathy,1
+698,chronic kidney disease,1
+699,chronic lung disease,1
+700,chronic myelomonocytic leukemia,1
+701,chronic neuropathic pain,1
+702,chronic obstructive pulmonary disease,1
+703,chronic orthostatic intolerance,1
+704,chronic pain from failed knee surgery,1
+705,chronic phase chronic myelogenous leukemia,1
+706,chronic spinal cord injury,1
+707,chronic wound,1
+708,chronobiology,1
+709,chronobiology disorders,1
+710,cidp,1
+711,ciliogenesis,1
+712,circadian rhythm sleep disorders,1
+713,circulating tumor dna,1
+714,circulating tumor dna (ctdna),1
+715,cisplatin,1
+716,citicoline,1
+717,clarithromycin quadruple regimen,1
+718,clearance,1
+719,clearance of piperacillin and tazobactam,1
+720,clinical communication,1
+721,clinical crown length,1
+722,clinical crown lengthening surgery,1
+723,clinical frailty,1
+724,clinical hypnosis,1
+725,clinical trial,1
+726,"clinical trial, phase iii",1
+727,cloacogenic carcinoma of the anus,1
+728,clogged ear tubes,1
+729,closed-loop brain stimulation,1
+730,cmml,1
+731,coagulation factor viii,1
+732,cognitive development,1
+733,cognitive dissonance,1
+734,cognitive performance,1
+735,cognitive rehabilitation protocol,1
+736,cognitive remediation,1
+737,cognitive stimulation,1
+738,cognitive training,1
+739,cohort studies,1
+740,colchicine,1
+741,colic hyperechogenicity,1
+742,collaborative care,1
+743,colon,1
+744,color vision,1
+745,colorectal,1
+746,colorectal cancer,1
+747,colorectal skills training,1
+748,combination therapy,1
+749,combined intervention,1
+750,commensal microbiome,1
+751,communicative development inventories (cdi),1
+752,community engagement,1
+753,community-based,1
+754,complex fractionate electrograms,1
+755,compliance,1
+756,composite,1
+757,compulsive fire setting,1
+758,computed tomography coronary angiography,1
+759,computer controlled anesthesia (cclad),1
+760,computer users,1
+761,computerised tomography,1
+762,concurrent chemoradiation,1
+763,condom failure,1
+764,cone beam computed tomography,1
+765,cone-beam computed tomography,1
+766,congestive cardiac failure,1
+767,congestive heart failure,1
+768,consensus,1
+769,constipation,1
+770,constipation/drug therapy,1
+771,contralateral training,1
+772,controlled hypotension,1
+773,convalescent volunteers,1
+774,convection-enhanced delivery,1
+775,convergence insufficiency,1
+776,copper chelator,1
+777,core muscles,1
+778,corneal abrasion,1
+779,corneal abrasions,1
+780,corneal infiltrate,1
+781,"coronary atherosclerosis, spiral computed tomography",1
+782,coronary haemodynamics,1
+783,coronary physiology,1
+784,cortical contusion,1
+785,cortical mapping,1
+786,cosmetic,1
+787,covid-19 vaccines,1
+788,cpap,1
+789,cpb cardiopuilmonary bypass,1
+790,cpg oligonucleotide vaccine,1
+791,cpsi2364,1
+792,cramping,1
+793,cranial nerve ix,1
+794,cranial nerve v,1
+795,cranial nerve vii,1
+796,cranial nerve x,1
+797,cranial nerves,1
+798,craniocerebral trauma,1
+799,creatine,1
+800,crohn's disease,1
+801,cross-cultural adaptation,1
+802,cross-education,1
+803,crossover design,1
+804,crossover trial,1
+805,crow's feet,1
+806,cryoablation,1
+807,cryotherapy,1
+808,cryptococcal meningitis,1
+809,cs1 car-t,1
+810,ct,1
+811,ct angiography,1
+812,ctcs,1
+813,ctdna,1
+814,cutaneous b-cell non-hodgkin lymphoma,1
+815,cvd risk,1
+816,cyclophosphamide,1
+817,cymba concha,1
+818,cystic fibrosis,1
+819,cytarabine,1
+820,cytokines,1
+821,"cytomegalovirus, congenital, infants",1
+822,cytosar,1
+823,cytosine arabinosine hydrochloride,1
+824,cytotoxic chemotherapy,1
+825,cytoxan,1
+826,d mannose prophylaxis,1
+827,d2c7,1
+828,d2c7-it,1
+829,datopotamab deruxtecan,1
+830,daunomycin,1
+831,daunorubicin,1
+832,daunorubicin hydrochloride,1
+833,day101,1
+834,de novo myelodysplastic syndromes,1
+835,deafness,1
+836,deb,1
+837,decadron,1
+838,deciduous tooth,1
+839,decitabine,1
+840,decubitus ulcer,1
+841,definitive vertigo,1
+842,deglutition disorders,1
+843,denonvilliers' fascia,1
+844,dental anxiety,1
+845,depocyt,1
+846,depuysynthes,1
+847,des,1
+848,"desflurane, sevoflurane, endovascular aortic repair",1
+849,developmental delay,1
+850,developmental disability,1
+851,dexamethasone,1
+852,dexmedetomidine,1
+853,dfu,1
+854,diabetes,1
+855,diabetes mellitus type 1,1
+856,diabetic,1
+857,diabetic ankle fractures,1
+858,diabetic eye disease,1
+859,diabetic gastroparesis,1
+860,diabetic macular edema,1
+861,diabetic patients,1
+862,diagnostic imaging,1
+863,diagnostic performance,1
+864,dialysis,1
+865,dickkopf-3,1
+866,diet,1
+867,dietary supplement,1
+868,dietician,1
+869,difficult selective biliary cannulation,1
+870,digital health intervention,1
+871,digital mental health,1
+872,digital tools,1
+873,dilation,1
+874,direct anterior approach hip replacement,1
+875,disability,1
+876,disease control,1
+877,disorders of environmental origin,1
+878,distal radius fracture,1
+879,distress,1
+880,diuretics,1
+881,dkk3,1
+882,dlbcl,1
+883,dnr,1
+884,docetaxel,1
+885,donor egg ivf,1
+886,doppler ultrasound,1
+887,double blind,1
+888,double guide wire technique,1
+889,double-blind method,1
+890,double-blind randomized controlled trial,1
+891,doxorubicin,1
+892,doxorubicin hydrochloride,1
+893,doxycycline,1
+894,drain usage,1
+895,driver mutation,1
+896,drug abuse warning network (dawn),1
+897,dry nose,1
+898,ds-1062a,1
+899,dtap-ipv,1
+900,dual antiplatelet therapy,1
+901,dual tasking,1
+902,dual-energy ablation,1
+903,dual-task,1
+904,duocarmycin,1
+905,duration,1
+906,dynamic visual acuity,1
+907,dysarthia,1
+908,dysautonomia,1
+909,dysphagia,1
+910,dystrophic epidermolysis bullosa,1
+911,e-health,1
+912,e7080,1
+913,early bactericidal activity,1
+914,early childhood caries,1
+915,early childhood education,1
+916,early childhood intervention,1
+917,early childhood preschool,1
+918,early discharge,1
+919,early-onset colorectal cancer,1
+920,eating disorders,1
+921,echocardiography,1
+922,ecmo,1
+923,ecog performance status,1
+924,ecological,1
+925,eczema,1
+926,education and training,1
+927,educational video,1
+928,effectiveness,1
+929,effects of bariatric surgery on brain function,1
+930,egfr mutation,1
+931,elbow,1
+932,elderly population,1
+933,elective major general surgery,1
+934,electrical impedance tomography,1
+935,electrical stimulation,1
+936,electrode malfunction,1
+937,electronic cigarette,1
+938,electronic messaging,1
+939,electrophysiology mapping,1
+940,embryos,1
+941,emergency medical services,1
+942,emergency room,1
+943,emotion regulation,1
+944,emotional self-efficacy,1
+945,emphysema,1
+946,emphysematous copd,1
+947,empowervax lung 1,1
+948,endoscopic radiofrequency ablation,1
+949,endoscopic retrograde cholangiopancreatography,1
+950,endovascular therapy,1
+951,endpoint,1
+952,energy consumption,1
+953,enfortumab vedotin,1
+954,engensis,1
+955,environment,1
+956,enzyme inhibitors,1
+957,eosinophilic asthma,1
+958,eosinophils,1
+959,epidemiology,1
+960,epidural anesthesia,1
+961,epidural hematoma,1
+962,epithelial ovarian cancer,1
+963,epoetin alfa,1
+964,eradication,1
+965,ercp,1
+966,erector spinae block,1
+967,erector spinae plane block,1
+968,erlotinib,1
+969,erythromycin,1
+970,esmolol,1
+971,esophageal cancer,1
+972,esophagus cancer,1
+973,estradiol,1
+974,estrone,1
+975,ethambutol,1
+976,ewing's sarcoma,1
+977,exablate,1
+978,exercise oncology,1
+979,exercise training,1
+980,exhausted,1
+981,existential recovery,1
+982,exparel,1
+983,extra-axial hemorrhage,1
+984,extracellular matrix,1
+985,extranodal marginal zone b-cell lymphoma of mucosa-associated lymphoid tissue,1
+986,extravasation injury,1
+987,extremely low birth weight infants,1
+988,extubation,1
+989,eyelid hygiene,1
+990,eyelid microbiota,1
+991,eyelid tumor,1
+992,eyelid wipes,1
+993,ezetimibe/rosuvastatin,1
+994,fabp2 gene,1
+995,face,1
+996,face wrinkles,1
+997,facial cosmetic acupuncture,1
+998,fallopian tube cancer,1
+999,familial amyloidotic polyneuropathy,1
+1000,familial ibd,1
+1001,family caregivers,1
+1002,family centered care,1
+1003,family psychoeducation,1
+1004,family-based,1
+1005,fap,1
+1006,farm worker,1
+1007,fasted,1
+1008,fdg,1
+1009,fear of recurrence,1
+1010,febuxostat,1
+1011,female,1
+1012,femoral neck fracture,1
+1013,fentanyl,1
+1014,fertilization rates,1
+1015,fibre,1
+1016,fibroblast,1
+1017,fibroblasts,1
+1018,fibromyalgia syndrome,1
+1019,fih,1
+1020,financial impact,1
+1021,fingertip amputation,1
+1022,fingertip regeneration,1
+1023,fire setting,1
+1024,first aid,1
+1025,first generation,1
+1026,first time in human,1
+1027,first time mothers,1
+1028,fitness level,1
+1029,fixed peep,1
+1030,fk949e,1
+1031,flash glucose monitoring,1
+1032,flavor,1
+1033,flavor test,1
+1034,flexible sigmoidoscopy,1
+1035,flow curve pattern,1
+1036,fluid therapy,1
+1037,fluorescent c-met tracer,1
+1038,fluorodeoxyglucose f18,1
+1039,foam rolling,1
+1040,focal boost,1
+1041,folfox,1
+1042,following primary cancer treatment,1
+1043,food,1
+1044,food effect,1
+1045,foot pain,1
+1046,fractional flow reserve,1
+1047,fracture table,1
+1048,french validation,1
+1049,frontal eye fields,1
+1050,frozen-thawed embryo transfer,1
+1051,functional bowel disorders,1
+1052,functional foods,1
+1053,functional inspiratory muscle training,1
+1054,functional magnetic resonance imaging (fmri),1
+1055,functional residual capacity,1
+1056,furazolidone quadruple regimen,1
+1057,gait [mesh],1
+1058,gait analysis,1
+1059,gait function,1
+1060,gall stones,1
+1061,game-based learning,1
+1062,gastric cancer,1
+1063,gastric emptying,1
+1064,gastric ultrasonography,1
+1065,gastrointestinal cancer,1
+1066,gastrointestinal endoscopy,1
+1067,gaucher disease,1
+1068,gaze stabilization exercises,1
+1069,gefitinib,1
+1070,gemcitabine,1
+1071,gender,1
+1072,gene therapy,1
+1073,general population,1
+1074,genetic diseases and dysmorphic syndromes,1
+1075,genetic polymorphism,1
+1076,genital infection,1
+1077,gh,1
+1078,gi-3 composite endpoint,1
+1079,gigantism,1
+1080,gingival exposure,1
+1081,glass ionomer cement,1
+1082,glaucoma,1
+1083,glioblastoma multiforme (gbm),1
+1084,glioma stem-like cells,1
+1085,gliosarcoma,1
+1086,glomerulonephritis,1
+1087,"glomerulonephritis, iga",1
+1088,glucagon like peptide 1,1
+1089,glucophage immediate release (gir),1
+1090,glucose,1
+1091,glucose oxidase,1
+1092,glucose tolerance,1
+1093,glycemic load,1
+1094,gnrh analog,1
+1095,gonyautoxin,1
+1096,gout,1
+1097,graft versus host disease,1
+1098,graft vs. host disease,1
+1099,grip strength,1
+1100,growth disorder,1
+1101,gsk2110183,1
+1102,gsk3810109a,1
+1103,gulf region,1
+1104,gummy smile,1
+1105,gun violence prevention,1
+1106,gut microbiome,1
+1107,gw786034,1
+1108,gw842166,1
+1109,gynecology-obstetrics,1
+1110,h. pylori eradication,1
+1111,haemodynamic changes,1
+1112,hair count,1
+1113,hall crown,1
+1114,hand dexterity,1
+1115,hand position,1
+1116,hbi-8000,1
+1117,hcc,1
+1118,hcg,1
+1119,"head injuries, closed",1
+1120,head injury,1
+1121,head-neck tumours,1
+1122,health belief model,1
+1123,health literacy,1
+1124,health personnel,1
+1125,health professional role,1
+1126,health promotion,1
+1127,health-related quality of life,1
+1128,healthcare disparities,1
+1129,healthcare utilization,1
+1130,healthy adults,1
+1131,healthy lifestyle,1
+1132,healthy participants,1
+1133,healthy students,1
+1134,healthy volunteers,1
+1135,hearing loss,1
+1136,heart,1
+1137,heart arrest,1
+1138,heart disease risk factors,1
+1139,heart failure stage ii,1
+1140,heart failure stage iii,1
+1141,heart failure with reduced left ventricular ejection fraction (lvef),1
+1142,"heart failure, congestive",1
+1143,heart muscle dysfunction,1
+1144,heart rate variability,1
+1145,heart surgery,1
+1146,heat exposure,1
+1147,hei-stress,1
+1148,helicobacter pylori,1
+1149,helixmith,1
+1150,hematologic malignancy,1
+1151,"hematologic neoplasms, lbh589,",1
+1152,hematopoietic stem cell transplant,1
+1153,hemiplegia,1
+1154,hemodialysis,1
+1155,hemodynamic stability,1
+1156,hemodynamics,1
+1157,hemoglobin a1c,1
+1158,hemoglobin low level,1
+1159,hepalean,1
+1160,heparin leo,1
+1161,hepatitis b screening,1
+1162,hepatitis c prevention,1
+1163,hepatitis c screening,1
+1164,hepatosplenic t-cell lymphoma,1
+1165,her2,1
+1166,herbal treatment,1
+1167,hernia mesh treatment,1
+1168,hernia repair,1
+1169,herpes,1
+1170,herpes zoster subunit vaccine,1
+1171,hf,1
+1172,hfnc,1
+1173,hibiscus sabdariffa drink,1
+1174,hifu,1
+1175,high blood pressure,1
+1176,high fidelity simulation training,1
+1177,high flow nasal cannula,1
+1178,high resolution diffusion-weighted imaging,1
+1179,high titer antibodies,1
+1180,high wearing comfort,1
+1181,high-intensity focused ultrasound,1
+1182,high-risk prostate cancer,1
+1183,high-throughput screening,1
+1184,hiv pre-exposure prophylaxis (prep),1
+1185,hiv prevention,1
+1186,hiv prevention and testing,1
+1187,hiv risk behaviors,1
+1188,hiv screening,1
+1189,home sleep test,1
+1190,home visits,1
+1191,home-based intervention,1
+1192,hope,1
+1193,horizontal section,1
+1194,hormone sensitive prostate cancer,1
+1195,hormone therapy,1
+1196,house dust mite,1
+1197,housing adaptation,1
+1198,hpv,1
+1199,hpv vaccine,1
+1200,hreef,1
+1201,hs-20093,1
+1202,hsv,1
+1203,human papillomavirus,1
+1204,human-computer interaction,1
+1205,humans,1
+1206,humeral fracture,1
+1207,hybrid closed loop system,1
+1208,hydroxychloroquine,1
+1209,hyperacusis,1
+1210,hyperinsulinemia,1
+1211,hyperkalemia,1
+1212,hyperphagia control,1
+1213,hyposmia,1
+1214,hypothermia,1
+1215,hypothermia and shivering,1
+1216,i-prf (injectable platelet rich fibrin),1
+1217,ibs - rectal hypersensitivity - rectal barostat - rtms.,1
+1218,icing,1
+1219,identifying,1
+1220,identity,1
+1221,idh mutation,1
+1222,ifn signature,1
+1223,ifobt,1
+1224,igf-1,1
+1225,ileus,1
+1226,imaging,1
+1227,immune system diseases,1
+1228,"immunoglobulins, intravenous",1
+1229,"immunoglobulins, subcutaneous",1
+1230,immunologic factors,1
+1231,implant,1
+1232,implant failure,1
+1233,implant fixation,1
+1234,implantation,1
+1235,implementation science,1
+1236,in-ear sensor system,1
+1237,in-vitro fertilization,1
+1238,incarceration,1
+1239,incisional hernia,1
+1240,incisional surgical site infections (ssi),1
+1241,independence,1
+1242,individualized peep,1
+1243,indocyanine green,1
+1244,induction of ovulation,1
+1245,indvidualized peep,1
+1246,infant,1
+1247,infant formula,1
+1248,"infant, newborn",1
+1249,infection,1
+1250,inflammation,1
+1251,inflammatory bowel disease,1
+1252,"influenza a virus, h1n1 subtype",1
+1253,informal caregivers,1
+1254,injection drug use,1
+1255,instruction,1
+1256,insulin receptors,1
+1257,insulin secretion,1
+1258,insulin sensitivity factor,1
+1259,insulin-like growth factor i,1
+1260,intellectual disability,1
+1261,intensity-modulated radiation therapy,1
+1262,intensive medical therapy,1
+1263,interferon,1
+1264,interleukin-2,1
+1265,interleukin-6,1
+1266,interlimb transfer,1
+1267,intermediate stroke risk,1
+1268,intermittent hypoxia,1
+1269,international prostate symptom score (ipss),1
+1270,interscalene brachial plexus block,1
+1271,intestinal dysbiosis,1
+1272,intestinal physiology,1
+1273,intra ocular pressure,1
+1274,intracranial edema,1
+1275,intramyocellular lipid,1
+1276,intraocular lens,1
+1277,intraocular lymphoma,1
+1278,intraperitoneal,1
+1279,intrapleural analgesia,1
+1280,intrathecal chemotherapy,1
+1281,intrauterine growth restriction,1
+1282,intravenous,1
+1283,intrusive devices,1
+1284,intrusive sensors,1
+1285,invasive esophagectomy,1
+1286,invega®,1
+1287,iol,1
+1288,ipack,1
+1289,ipi,1
+1290,iressa,1
+1291,iron,1
+1292,iron prophylaxis,1
+1293,"irritable bowel syndrome, stress, symptom severity, quality of life, relaxation",1
+1294,irritation,1
+1295,isbar,1
+1296,ischemia reperfusion injury,1
+1297,"ischemic attack, transient",1
+1298,isionazid,1
+1299,islet cell transplantation,1
+1300,iui,1
+1301,iv care,1
+1302,iv complication,1
+1303,ivf patients with poor response to stimulation,1
+1304,ivf stimulation.,1
+1305,ivig,1
+1306,jak inhibitors,1
+1307,jia,1
+1308,joint health,1
+1309,judo,1
+1310,justice involvement,1
+1311,ketorolac tromethamine 0.5%,1
+1312,kidney,1
+1313,kidney disease,1
+1314,kidney diseases,1
+1315,kinesiophobia,1
+1316,kinetics,1
+1317,knee,1
+1318,knee osteoarthritis,1
+1319,knee surgeries,1
+1320,kras g12c,1
+1321,l-theanine,1
+1322,l-tyrosine,1
+1323,labour marked,1
+1324,labour progression,1
+1325,lactate,1
+1326,lactated ringer's solution,1
+1327,language development,1
+1328,"laparoscopic cholecystectomy, delayed cholecystectomy",1
+1329,laparoscopic colectomy,1
+1330,laparoscopy,1
+1331,large b-cell lymphoma,1
+1332,large vessel occlusion,1
+1333,laserace,1
+1334,lasers,1
+1335,lasik,1
+1336,lead failure,1
+1337,leaf expander,1
+1338,left atrial ablation,1
+1339,left main,1
+1340,left ventricular (lv) dilation,1
+1341,left ventricular hypertrophy,1
+1342,levetiracetam,1
+1343,levodopa,1
+1344,lewy body disease,1
+1345,lfr,1
+1346,life story,1
+1347,lifestyle change,1
+1348,linezolid,1
+1349,liothyronine,1
+1350,liposomal bupivacaine,1
+1351,live birth,1
+1352,liver qi stagnation,1
+1353,ll,1
+1354,local anesthesia,1
+1355,local infiltration analgesia,1
+1356,localized rectal cancer in a male patient,1
+1357,long term vital signs monitoring,1
+1358,long-term follow-up study,1
+1359,long-term survival,1
+1360,long-term vaccine efficacy,1
+1361,longitudinal study,1
+1362,lood flow restriction (bfr),1
+1363,low and middle-income countries (lmic),1
+1364,low back pain,1
+1365,low dose,1
+1366,low ses intervention,1
+1367,low-intensity intervention,1
+1368,low-level laser therapy,1
+1369,lower dose insulin,1
+1370,lumbar disc herniation,1
+1371,lumbar radiculopathy,1
+1372,lung,1
+1373,lung protective ventilation,1
+1374,lymphoblastic lymphoma,1
+1375,lymphoma,1
+1376,lysinuria-cystinuria,1
+1377,lysinuric protein intolerance,1
+1378,macular edema,1
+1379,magnetic resonance imaging,1
+1380,maintenance therapy,1
+1381,major depression,1
+1382,"major depression, with psychotic features",1
+1383,male breast cancer,1
+1384,male urinary symptoms,1
+1385,males,1
+1386,malignant glioma,1
+1387,malignant neoplasm,1
+1388,malignant solid tumors,1
+1389,malondialdehyde,1
+1390,mammary gland hyperplasia,1
+1391,mammographic density,1
+1392,manometry,1
+1393,manual therapies,1
+1394,mastectomy,1
+1395,maternal and neonatal morbidity,1
+1396,maternal birth outcome,1
+1397,matrix-m,1
+1398,maxillary expansion,1
+1399,mbct,1
+1400,mcrc,1
+1401,mechanical ventilation,1
+1402,medical education,1
+1403,medical genetics,1
+1404,medical resuscitation,1
+1405,medical treatment,1
+1406,medication-related osteonecrosis of the jaw,1
+1407,"medicine, chinese traditional",1
+1408,meditation,1
+1409,meg,1
+1410,melanoma,1
+1411,melatonin,1
+1412,memorial sloan kettering cancer center,1
+1413,memory loss,1
+1414,menacyw conjugate vaccine,1
+1415,meniere's disease,1
+1416,meningeal chronic myelogenous leukemia,1
+1417,meningitis,1
+1418,meningococcal meningitis,1
+1419,"meningococcal meningitis, serogroup c",1
+1420,meningococcal vaccine,1
+1421,menjugate®,1
+1422,mental health recovery,1
+1423,mental health well-being,1
+1424,mental rotation,1
+1425,meows,1
+1426,mercaptopurine,1
+1427,mesenchymal stromal cells,1
+1428,mesothelial-to-mesenchymal transition,1
+1429,metabolic syndrome,1
+1430,metabolic syndrome x,1
+1431,metastasis,1
+1432,metastatic cancer to the bone,1
+1433,metastatic head and neck cancer,1
+1434,metastatic non-small cell lung cancer,1
+1435,metastatic nsclc,1
+1436,metastatic tumor to the bone,1
+1437,metastic lung mass,1
+1438,methotrexate,1
+1439,methylphenidate (ritalin),1
+1440,mgcd516,1
+1441,mgmt unmethylated,1
+1442,mhealth,1
+1443,mibg,1
+1444,microbiota,1
+1445,midwifery,1
+1446,mild electrical stimulation,1
+1447,mild to moderate asthma,1
+1448,mindfulness-based stress reduction,1
+1449,minimal clinically important difference,1
+1450,minimally invasive caries management,1
+1451,minimally invasive thoracic surgery,1
+1452,minimed 670g,1
+1453,mites,1
+1454,mixed method,1
+1455,mixed-methods research,1
+1456,mk-0947,1
+1457,ml,1
+1458,mobility,1
+1459,mobilization,1
+1460,mode of delivery,1
+1461,moderate intensity continuous training,1
+1462,moderate to severe community-acquired acute bacterial pneumonia due to s. pneumoniae,1
+1463,moderately fractionated rt,1
+1464,modified pet,1
+1465,mohs surgery,1
+1466,molecular mechanisms of pharmacological action,1
+1467,monitoring,1
+1468,morphine,1
+1469,morphology,1
+1470,motion sickness,1
+1471,motivational interviewing,1
+1472,motor cortex,1
+1473,motor performance,1
+1474,movement disorder,1
+1475,multi-omics,1
+1476,multicomponent intervention,1
+1477,multidrug resistant,1
+1478,multimodal,1
+1479,multimodal biobank,1
+1480,multiple dose,1
+1481,multiple myeloma,1
+1482,muscle damage,1
+1483,muscle recovery,1
+1484,muscle relaxants,1
+1485,muscle ultrasound,1
+1486,muscular weakness,1
+1487,music,1
+1488,music therapy,1
+1489,myelodysplasia,1
+1490,myelodysplastic syndrome,1
+1491,myocardial perfusion imaging,1
+1492,myoclonus,1
+1493,myopathy,1
+1494,n6ls,1
+1495,nafld,1
+1496,narrow band imaging,1
+1497,nasal potential difference,1
+1498,nash,1
+1499,nasopharyngeal carcinoma,1
+1500,nasotracheal intubation,1
+1501,nav1.6 inhibitor,1
+1502,nava,1
+1503,ncs,1
+1504,near infrared spectroscopy,1
+1505,neck isometric strength,1
+1506,neck range of motion,1
+1507,neisseria meningitidis,1
+1508,neoadjuvant chemoradiotherapy (ncrt),1
+1509,neoadjuvant chemotherapy,1
+1510,neonatal anesthesia,1
+1511,neonatal birth outcome,1
+1512,neonatal brain monitoring,1
+1513,neonatal brain states,1
+1514,neonatal home care,1
+1515,neosar,1
+1516,nephritis,1
+1517,nephropathy,1
+1518,nervous system,1
+1519,nervous system disease,1
+1520,neuroaid,1
+1521,neurobehavioral function,1
+1522,neurocardiogenic,1
+1523,neurocardiogenic syncope,1
+1524,neurodegeneration,1
+1525,neurofibromatosis,1
+1526,neuroimaging,1
+1527,neuromodulation,1
+1528,neuropace rns,1
+1529,neuropathic pain,1
+1530,neuropathy,1
+1531,neuroplasticity,1
+1532,neuroprotection,1
+1533,neuropsychology,1
+1534,neurotoxicity,1
+1535,new russian drug,1
+1536,ngr-htnf,1
+1537,nicardipine,1
+1538,nicu,1
+1539,nigella sativa,1
+1540,nimenrix®,1
+1541,nis,1
+1542,nissle 1917,1
+1543,nk,1
+1544,nmes,1
+1545,nodal marginal zone b-cell lymphoma,1
+1546,non invasive ventilation,1
+1547,non small cell lung cancer,1
+1548,non technical skills,1
+1549,non-cannabinoid agonist,1
+1550,non-cardiac surgery,1
+1551,non-invasive,1
+1552,non-invasive brain stimulation,1
+1553,non-invasive diagnosis,1
+1554,non-sedating,1
+1555,noncutaneous extranodal lymphoma,1
+1556,nonsteroidal anti-inflammatory drugs,1
+1557,normal volunteer,1
+1558,normal weight,1
+1559,nostril,1
+1560,npc,1
+1561,"nsclc, non-small cell lung cancer,weekly radiation, taxotere",1
+1562,nuclear stress test,1
+1563,nulliparous,1
+1564,nurocardiogenic syncope,1
+1565,nurses,1
+1566,nursing,1
+1567,nutrition consulting,1
+1568,nutrition risk,1
+1569,nyxol,1
+1570,obese,1
+1571,objective sensory methods,1
+1572,observational study,1
+1573,obsessive-compulsive disorder,1
+1574,occipital nerves,1
+1575,occlusive dressings,1
+1576,ocd,1
+1577,ocrelizumab,1
+1578,octogenarians,1
+1579,oculomotor exercises,1
+1580,odontopediatrics,1
+1581,office-based vergence/accommodative therapy,1
+1582,olf regimen,1
+1583,oligometastatic,1
+1584,olink,1
+1585,oncaspar,1
+1586,oocytes,1
+1587,open esophagectomy,1
+1588,open wound,1
+1589,opioid,1
+1590,opioid agonist treatment,1
+1591,opioid dependence,1
+1592,opioid use,1
+1593,opioids,1
+1594,optical coherence tomography angiography,1
+1595,optimization,1
+1596,oral antipsychotics,1
+1597,oral insulin,1
+1598,oral mucositis,1
+1599,organ protection,1
+1600,orofacial pain,1
+1601,orthodontics,1
+1602,orthostatic hypotension,1
+1603,orthotopic liver transplant,1
+1604,osteonecrosis,1
+1605,osteoporosis,1
+1606,osteosarcoma,1
+1607,out-of-pocket expenditures,1
+1608,outcome,1
+1609,outcome estimation,1
+1610,ovarian carcinosarcoma,1
+1611,ovarian sarcoma,1
+1612,overdenture,1
+1613,oxaсom,1
+1614,oxidative stress,1
+1615,oxygen,1
+1616,pacing,1
+1617,paediatric dentistry,1
+1618,paediatric liver transplant,1
+1619,paediatrician concerns,1
+1620,pain assessment,1
+1621,pain documentation,1
+1622,pain perception,1
+1623,pain scale,1
+1624,paliperidone er,1
+1625,palliation,1
+1626,pamphlet,1
+1627,pancreatic,1
+1628,pancreatic cancer,1
+1629,pancreatic carcinoma,1
+1630,pancreatic resection,1
+1631,"pancreaticoduodenectomy, pancreatic fistula",1
+1632,"panobinostat,",1
+1633,paraganglioma,1
+1634,paralytic shellfish poison,1
+1635,paraprofessional,1
+1636,parent training,1
+1637,parental concerns,1
+1638,parental satisfaction,1
+1639,parents,1
+1640,parents responsiveness,1
+1641,parkinson's disease,1
+1642,paroxysmal atrial fibrillation,1
+1643,parp inhibitor,1
+1644,partially hydrolized protein infant formula,1
+1645,participation,1
+1646,pasireotide lar,1
+1647,patellofemoral osteoarthritis,1
+1648,pathologic complete response (pcr),1
+1649,patient recovery,1
+1650,patient-caregiver dyads,1
+1651,patient-reported outcome,1
+1652,patients,1
+1653,patients with proven or suspected cancer referred for naf-18 pet to identify bone metastasis,1
+1654,pazopanib,1
+1655,pcats,1
+1656,pci,1
+1657,pci-percutaneous coronary intervention,1
+1658,pcjia,1
+1659,pd-1,1
+1660,pediatric cancer,1
+1661,pediatric cardiac surgery,1
+1662,pediatric surgery,1
+1663,pediatrics,1
+1664,pedometer,1
+1665,peg asparaginase,1
+1666,pegaspargase,1
+1667,pegylated interferon alfa-2b,1
+1668,pegylated liposomal doxorubicin,1
+1669,pelvic floor muscles,1
+1670,pelvic infection,1
+1671,pembrolizumab,1
+1672,pemetrexed,1
+1673,penile,1
+1674,percutaneous balloon kyphoplasty,1
+1675,percutaneous coronary intervention,1
+1676,performance,1
+1677,periodontitis,1
+1678,peripheral intravenous catheter,1
+1679,peripheral nerve block,1
+1680,peripheral t-cell lymphoma,1
+1681,periprosthetic bone mineral density,1
+1682,peritoneal cancer,1
+1683,peritoneal membrane,1
+1684,peroxidase,1
+1685,persistence of immune response,1
+1686,persistent atrial fibrillation,1
+1687,pet,1
+1688,pet-ct,1
+1689,pharmacist,1
+1690,pharmacodynamic,1
+1691,pharmacodynamics,1
+1692,pharmacologic actions,1
+1693,pharmacologically induced mydriasis,1
+1694,pharmacy,1
+1695,pharyngeal dysphagia,1
+1696,phase 1b,1
+1697,phase 2,1
+1698,phase 2 clinical trial,1
+1699,pheochromocytoma,1
+1700,phonology,1
+1701,phonophoresis,1
+1702,phosphatidylserine,1
+1703,phosphodiesterase 10 inhibitor,1
+1704,photobiomodulation therapy,1
+1705,photoplethysmographic micro-optic device,1
+1706,photoplethysmography,1
+1707,phototherapy,1
+1708,phq-4,1
+1709,physical exercise,1
+1710,physical therapy techniques,1
+1711,pilot 1 clinical trial,1
+1712,pimasertib,1
+1713,pimecrolimus,1
+1714,pins and needles pain,1
+1715,pituitary adenoma,1
+1716,pituitary gigantism,1
+1717,placebo,1
+1718,placebo-control,1
+1719,placental syndrome,1
+1720,planetary health,1
+1721,plantar flexors,1
+1722,"plaque psoriasis, with bilateral symmetrical lesions.",1
+1723,plasma cell neoplasm,1
+1724,"platelet rich plasma , poor ovarian reserve",1
+1725,pms,1
+1726,pneumococcal disease,1
+1727,pneumococcal vaccine,1
+1728,pneumonia,1
+1729,point of care ultrasound,1
+1730,polycystic ovary syndrome,1
+1731,polyethylene glycol conjugated lasparaginase-h,1
+1732,polymorphism ala54thr,1
+1733,polysomnography,1
+1734,poor responders.,1
+1735,population-based study,1
+1736,positron emission tomography,1
+1737,posology,1
+1738,post endoscopic retrograde cholangiopancreatography pancreatitis,1
+1739,post-dural puncture headache,1
+1740,post-ercp complications.,1
+1741,post-operative pain,1
+1742,post-transplant lymphoproliferative disorder,1
+1743,post-traumatic stress,1
+1744,posterior approach hip replacement,1
+1745,postmenopause,1
+1746,postoperative analgesia,1
+1747,postoperative care,1
+1748,postoperative complications,1
+1749,postoperative ileus,1
+1750,postoperative mortality,1
+1751,postoperative outcome,1
+1752,postoperative survival,1
+1753,postpartum hemorrhage,1
+1754,postural control,1
+1755,povidone-iodine,1
+1756,prader-willi syndrome,1
+1757,pramipexole,1
+1758,prebiota,1
+1759,precision,1
+1760,precision medicine,1
+1761,precursor-b acute lymphoblastic leukemia,1
+1762,prednisolone acetate 1%,1
+1763,prednisone,1
+1764,preeclampsia,1
+1765,pregnant women,1
+1766,prehabilitation,1
+1767,premature birth,1
+1768,premature infants,1
+1769,premature neonates,1
+1770,premedication,1
+1771,preoperative anxiety,1
+1772,preoperative assessment,1
+1773,preoperative parameters,1
+1774,preoperative radiotherapy,1
+1775,preperitoneal,1
+1776,presbyopia,1
+1777,"presbyopia, yoga eye exercises, myofascial release, postural exercise",1
+1778,pressure management,1
+1779,pressure sore,1
+1780,pressure ulcer,1
+1781,preterm neonates,1
+1782,prevalence,1
+1783,prevention,1
+1784,prevention of leak,1
+1785,prevention of snakebite,1
+1786,preventive health care,1
+1787,previously treated myelodysplastic syndromes,1
+1788,primary care,1
+1789,primary care setting,1
+1790,primary central nervous system lymphoma,1
+1791,primary insomnia as defined by dsm iv criteria,1
+1792,primary molars,1
+1793,primary open angle glaucoma,1
+1794,primary vaccination,1
+1795,pro-coagulant mediators,1
+1796,pro00110119,1
+1797,probiotic,1
+1798,procedural anxiety,1
+1799,procedural pain,1
+1800,procrit,1
+1801,prodromal psychosis,1
+1802,professional caregivers,1
+1803,proficiency,1
+1804,programme de medicalisation des systèmes d'information,1
+1805,"programmed cell death 1 (pd-1, pd1)",1
+1806,"programmed cell death ligand 1 (pd-l1, pdl1)",1
+1807,"programmed cell death ligand 2 (pd-l2, pdl2)",1
+1808,programmed cell death ligand-1 (pd-l1) monoclonal antibody,1
+1809,"progressive hairy cell leukemia, initial treatment",1
+1810,prolonged labour,1
+1811,prolymphocytic leukemia,1
+1812,prophylactic efficacy,1
+1813,proportional assist ventilation,1
+1814,prospective longitudinal cohort,1
+1815,prospective observational study,1
+1816,prostate,1
+1817,prostate cancer,1
+1818,prosthesis,1
+1819,prosthetic arm,1
+1820,protective efficacy,1
+1821,protective mechanical ventilation,1
+1822,protective nerve stimulation,1
+1823,protein kinase inhibitors,1
+1824,proteomics,1
+1825,proton beam therapy,1
+1826,protopic,1
+1827,pseudoexfoliation glaucoma,1
+1828,pseudomonas aeruginosa,1
+1829,psilocybin,1
+1830,psma pet/ct,1
+1831,psychiatric care,1
+1832,psychiatry,1
+1833,psychodelics,1
+1834,psychological impact,1
+1835,psychometric validation,1
+1836,psychophysics,1
+1837,psychosis,1
+1838,psychotherapy for caregivers,1
+1839,ptr-ms,1
+1840,ptsd,1
+1841,pulmonary arterial hypertension,1
+1842,"pulmonary disease, chronic obstructive",1
+1843,pulmonary function,1
+1844,pulmonary rehabilitation,1
+1845,pulmonary syndrome,1
+1846,pulse oximetry,1
+1847,pulsed field ablation (pfa),1
+1848,purinethol,1
+1849,pyrazinamide,1
+1850,pyromania,1
+1851,pyronaridine,1
+1852,q22),1
+1853,quality assurance,1
+1854,quality of life and subjective well-being in middle aged women,1
+1855,quality of recovery,1
+1856,quantitative igg,1
+1857,quarantine,1
+1858,questionnaire,1
+1859,quinazolines,1
+1860,r-megachop,1
+1861,r21,1
+1862,radiation dosimetry,1
+1863,radiation therapy,1
+1864,radical prostatectomy,1
+1865,radioembolisation,1
+1866,radiofrequency ablation (rfa),1
+1867,raf alteration,1
+1868,ragweed immunotherapy,1
+1869,randomized,1
+1870,randomized clinical trials,1
+1871,randomized controlled trial (rct),1
+1872,randomized controlled trials as topic,1
+1873,randomized open-label study,1
+1874,randomized study,1
+1875,randomized trial,1
+1876,rapid expansion,1
+1877,rare disease,1
+1878,ras,1
+1879,ras-fr,1
+1880,raynaud,1
+1881,re,1
+1882,reactive,1
+1883,reactogenicity,1
+1884,reading,1
+1885,readmissions,1
+1886,real-world data,1
+1887,rebif,1
+1888,"receptor,her2",1
+1889,recist guidelines,1
+1890,recombinant factor ix,1
+1891,recombinant zoster vaccine (rzv),1
+1892,reconciling exterior and interior therapy,1
+1893,recovery assessment scale,1
+1894,recovery of function,1
+1895,recovery-oriented care,1
+1896,rectal cancer,1
+1897,rectum,1
+1898,recurrence prediction,1
+1899,recurrent adult acute lymphoblastic leukemia,1
+1900,recurrent adult burkitt lymphoma,1
+1901,recurrent adult diffuse large cell lymphoma,1
+1902,recurrent adult diffuse mixed cell lymphoma,1
+1903,recurrent adult diffuse small cleaved cell lymphoma,1
+1904,recurrent adult immunoblastic large cell lymphoma,1
+1905,recurrent adult lymphoblastic lymphoma,1
+1906,recurrent adult t-cell leukemia/lymphoma,1
+1907,recurrent cervical cancer,1
+1908,recurrent childhood anaplastic astrocytoma,1
+1909,recurrent childhood anaplastic large cell lymphoma,1
+1910,recurrent childhood anaplastic oligoastrocytoma,1
+1911,recurrent childhood anaplastic oligodendroglioma,1
+1912,recurrent childhood brain stem glioma,1
+1913,recurrent childhood central nervous system embryonal tumor,1
+1914,recurrent childhood cerebellar astrocytoma,1
+1915,recurrent childhood cerebral astrocytoma,1
+1916,recurrent childhood diffuse astrocytoma,1
+1917,recurrent childhood fibrillary astrocytoma,1
+1918,recurrent childhood gemistocytic astrocytoma,1
+1919,recurrent childhood giant cell glioblastoma,1
+1920,recurrent childhood glioblastoma,1
+1921,recurrent childhood gliomatosis cerebri,1
+1922,recurrent childhood gliosarcoma,1
+1923,recurrent childhood grade iii lymphomatoid granulomatosis,1
+1924,recurrent childhood large cell lymphoma,1
+1925,recurrent childhood lymphoblastic lymphoma,1
+1926,recurrent childhood oligoastrocytoma,1
+1927,recurrent childhood oligodendroglioma,1
+1928,recurrent childhood pilocytic astrocytoma,1
+1929,recurrent childhood pilomyxoid astrocytoma,1
+1930,recurrent childhood pineoblastoma,1
+1931,recurrent childhood pleomorphic xanthoastrocytoma,1
+1932,recurrent childhood protoplasmic astrocytoma,1
+1933,recurrent childhood small noncleaved cell lymphoma,1
+1934,recurrent childhood subependymal giant cell astrocytoma,1
+1935,recurrent childhood visual pathway and hypothalamic glioma,1
+1936,recurrent childhood visual pathway glioma,1
+1937,recurrent cutaneous t-cell non-hodgkin lymphoma,1
+1938,recurrent disease,1
+1939,recurrent endometrial carcinoma,1
+1940,recurrent grade 1 follicular lymphoma,1
+1941,recurrent grade 2 follicular lymphoma,1
+1942,recurrent grade 3 follicular lymphoma,1
+1943,recurrent mantle cell lymphoma,1
+1944,recurrent marginal zone lymphoma,1
+1945,recurrent mg,1
+1946,recurrent mycosis fungoides/sezary syndrome,1
+1947,recurrent prostate cancer,1
+1948,recurrent renal cell cancer,1
+1949,recurrent small lymphocytic lymphoma,1
+1950,recurrent urinary tract infections,1
+1951,recurrent uterine sarcoma,1
+1952,recurrent/refractory childhood hodgkin lymphoma,1
+1953,red blood cell deficiency,1
+1954,redo ablation,1
+1955,redo af ablation,1
+1956,reduced glucose insulin changes and brain function,1
+1957,reduction in the number of erythrocytes,1
+1958,reduction mammaplasty,1
+1959,reference formulation,1
+1960,refractory,1
+1961,refractory hairy cell leukemia,1
+1962,refractory immune checkpoint inhibitors (ici)-related dermatitis,1
+1963,regional renal oxygenation,1
+1964,registry,1
+1965,regorafenib,1
+1966,"rehabilitation, upper extremity, virtual reality, saebovr",1
+1967,reintubation,1
+1968,relapsed/refractory multiple myeloma,1
+1969,relapsing chronic myelogenous leukemia,1
+1970,relapsing multiple sclerosis,1
+1971,relax-ahf-eu,1
+1972,reliability,1
+1973,remifentanil,1
+1974,remimazolam,1
+1975,"reminder recall (r/r), influenza vaccines",1
+1976,reminders,1
+1977,remineralization,1
+1978,reminiscence,1
+1979,remote monitoring,1
+1980,renal impairment,1
+1981,repeat ablation,1
+1982,repeat ablation procedures,1
+1983,residential care,1
+1984,resistance training,1
+1985,resistant,1
+1986,respiration,1
+1987,respiratory complication,1
+1988,respiratory complications,1
+1989,"respiratory depression, opioid-induced sedation",1
+1990,respiratory muscles,1
+1991,respiratory synchronization,1
+1992,responsive neurostimulation,1
+1993,restless legs syndrome,1
+1994,restorations,1
+1995,resynchronization,1
+1996,retro-nasal olfaction,1
+1997,return to work,1
+1998,return-to-work,1
+1999,rh5.2 virus-like particle (vlp),1
+2000,rhabdomyosarcoma,1
+2001,rheumatoid arthritis,1
+2002,"rhinitis, allergic",1
+2003,rhinitis/ rhinoconjunctivitis,1
+2004,rhinoplasty,1
+2005,rhodiola,1
+2006,rhodiola rosea,1
+2007,ribavirin,1
+2008,rifampicin,1
+2009,risk factor,1
+2010,risk prediction,1
+2011,rituxan,1
+2012,"rlx030,",1
+2013,rms,1
+2014,rnai therapeutic,1
+2015,rns60,1
+2016,robot-assistance,1
+2017,rosuvastatin,1
+2018,rotator cuff tear,1
+2019,rpw2,1
+2020,rtms,1
+2021,rubex,1
+2022,s-icd,1
+2023,sacituzumab govitecan,1
+2024,sacroiliac joint,1
+2025,"safety of ziprasidone, efficacy of ziprasidone, manic episodes in bipolar disorder, mixed episodes in bipolar disorder, schizoaffective disorder.",1
+2026,sai,1
+2027,salivary biomarkers,1
+2028,salivary cytokines,1
+2029,salivary gland toxicity,1
+2030,salmonella-typhoid conjugate (ints-tcv) vaccine,1
+2031,satiety,1
+2032,satisfaction with life scale (swls),1
+2033,sbrt,1
+2034,sbrt (stereotactic body radiotherapy),1
+2035,scale development,1
+2036,scalp biopsy,1
+2037,scar,1
+2038,schizophrenia,1
+2039,school readiness mindfulness,1
+2040,school-based intervention,1
+2041,schroth exercise,1
+2042,sciatic back pain,1
+2043,sciatic nerve block,1
+2044,sciatic radiculopathy,1
+2045,sciatica,1
+2046,sclc,1
+2047,sclera,1
+2048,screening tools,1
+2049,sdb,1
+2050,sebaceous carcinoma,1
+2051,second-hand smoke,1
+2052,secondary myelodysplastic syndromes,1
+2053,selective laser trabeculoplasty,1
+2054,selenium,1
+2055,self-management,1
+2056,self-massage,1
+2057,self-regulation,1
+2058,semapimod,1
+2059,sennas,1
+2060,sensorimotor disorder,1
+2061,sensory processing,1
+2062,sepsis,1
+2063,sequence chemoradiotherapy,1
+2064,serum fatty acids,1
+2065,severe renal impairment,1
+2066,sexually transmitted disease (std) prevention and testing,1
+2067,shingles,1
+2068,shooting pain,1
+2069,short stature,1
+2070,shoulder dystocia,1
+2071,shoulder pain,1
+2072,sickle cell disease,1
+2073,sickle cell disease (scd),1
+2074,silicone finger cap,1
+2075,simulation based breastfeeding training,1
+2076,simulator adaption syndrome,1
+2077,simulator sickness,1
+2078,single-blind,1
+2079,singlet oxygen,1
+2080,sir-spheres microspheres,1
+2081,sirtuins,1
+2082,skeletal muscle,1
+2083,skin rejuvenation,1
+2084,skin-to-skin contact,1
+2085,slamf7,1
+2086,sleep,1
+2087,sleep apnea syndromes,1
+2088,"sleep apnea, obstructive",1
+2089,sleep disordered breathing,1
+2090,slow expansion,1
+2091,small bowel obstruction,1
+2092,small for gestational age,1
+2093,small intestine lymphoma,1
+2094,smartwatch,1
+2095,smell,1
+2096,smoke-free,1
+2097,smoke-free policy,1
+2098,snack exercises,1
+2099,snake envenomation,1
+2100,"soc,",1
+2101,socio-economic burden,1
+2102,sodium channel,1
+2103,sodium dip,1
+2104,solid malignant tumor,1
+2105,som230,1
+2106,somatostatin analogues,1
+2107,"sonolysis, brain infarction, prevention, cardiac surgery",1
+2108,sparrow ascent,1
+2109,spasticity,1
+2110,spatial cognition,1
+2111,spectral domain,1
+2112,sphenopalatine ganglion block,1
+2113,sphere-9 catheter,1
+2114,spinal cord disease,1
+2115,spinal cord injury,1
+2116,spirometry,1
+2117,splenic marginal zone lymphoma,1
+2118,spontaneous lh,1
+2119,spotting,1
+2120,squamous cell carcinoma,1
+2121,squamous cell carcinoma of the anus,1
+2122,ss-oct,1
+2123,stabilization exercises,1
+2124,stage i - iii surgical resection molecular change brief pre-operative exposure,1
+2125,stage i anal cancer,1
+2126,stage i endometrial carcinoma,1
+2127,stage i pancreatic cancer,1
+2128,stage i uterine sarcoma,1
+2129,stage ia cervical cancer,1
+2130,stage ib cervical cancer,1
+2131,stage ii anal cancer,1
+2132,stage ii endometrial carcinoma,1
+2133,stage ii pancreatic cancer,1
+2134,stage ii uterine sarcoma,1
+2135,stage iia cervical cancer,1
+2136,stage iia prostate cancer,1
+2137,stage iib cervical cancer,1
+2138,stage iib prostate cancer,1
+2139,stage iii adult hodgkin lymphoma,1
+2140,stage iii adult t-cell leukemia/lymphoma,1
+2141,stage iii cervical cancer,1
+2142,stage iii chronic lymphocytic leukemia,1
+2143,stage iii endometrial carcinoma,1
+2144,stage iii prostate cancer,1
+2145,stage iii uterine sarcoma,1
+2146,stage iiia anal cancer,1
+2147,stage iiia melanoma,1
+2148,stage iiib anal cancer,1
+2149,stage iiib melanoma,1
+2150,stage iiic melanoma,1
+2151,stage iv adult burkitt lymphoma,1
+2152,stage iv adult diffuse large cell lymphoma,1
+2153,stage iv adult diffuse mixed cell lymphoma,1
+2154,stage iv adult diffuse small cleaved cell lymphoma,1
+2155,stage iv adult hodgkin lymphoma,1
+2156,stage iv adult immunoblastic large cell lymphoma,1
+2157,stage iv adult lymphoblastic lymphoma,1
+2158,stage iv adult t-cell leukemia/lymphoma,1
+2159,stage iv chronic lymphocytic leukemia,1
+2160,stage iv endometrial carcinoma,1
+2161,stage iv grade 1 follicular lymphoma,1
+2162,stage iv grade 2 follicular lymphoma,1
+2163,stage iv grade 3 follicular lymphoma,1
+2164,stage iv mantle cell lymphoma,1
+2165,stage iv marginal zone lymphoma,1
+2166,stage iv prostate cancer,1
+2167,stage iv renal cell cancer,1
+2168,stage iv small lymphocytic lymphoma,1
+2169,stage iv uterine sarcoma,1
+2170,stage iva cervical cancer,1
+2171,stage ivb cervical cancer,1
+2172,stainless steel crowns,1
+2173,standardized patient,1
+2174,start triage in disasters,1
+2175,stationary bike,1
+2176,stec-hus,1
+2177,stellate ganglion block,1
+2178,stem cell therapy,1
+2179,stem cell transplantation,1
+2180,stenting,1
+2181,stepped-wedge,1
+2182,stereotactic body radiotherapy,1
+2183,sti rapid screening,1
+2184,stool,1
+2185,storytelling,1
+2186,strength training,1
+2187,stress,1
+2188,stress echocardiography,1
+2189,stress incontinence,1
+2190,stress reduction,1
+2191,stress response,1
+2192,stroke [mesh],1
+2193,student satisfaction,1
+2194,study characteristics,1
+2195,subacromial injection,1
+2196,subcutaneous cardioverter-defibrillator,1
+2197,subdural hematoma,1
+2198,subjective cognitive decline,1
+2199,subjective health status,1
+2200,subjective recovery,1
+2201,sublingual fentanyl,1
+2202,suboptimality,1
+2203,substance abuse,1
+2204,substance use disorder,1
+2205,sudan ebolavirus (sudv),1
+2206,sudan ebolavirus vaccine,1
+2207,sunitinib,1
+2208,superior pedicle,1
+2209,support,1
+2210,supraglottic airway,1
+2211,surgical wound infection,1
+2212,surovatamig,1
+2213,survey,1
+2214,survival rate,1
+2215,suture method,1
+2216,swallowing disorder,1
+2217,syd985,1
+2218,sympathoadrenal imbalance,1
+2219,syphilis screening,1
+2220,systemic sclerosis,1
+2221,t2dm,1
+2222,tablet application,1
+2223,tace,1
+2224,take-home exposure,1
+2225,tam rtks,1
+2226,tarceva,1
+2227,taxol,1
+2228,tb,1
+2229,tcmrgfus,1
+2230,teacher implementation,1
+2231,technology-assisted block training program,1
+2232,technology-enhanced learning,1
+2233,tedizolid,1
+2234,tegileridine,1
+2235,telecare,1
+2236,teleheath,1
+2237,telephone counselling,1
+2238,temporal lobe epilepsy,1
+2239,temporomandibular joint,1
+2240,temporomandibular joint disorders,1
+2241,testosterone,1
+2242,tetanus,1
+2243,thailand,1
+2244,thais,1
+2245,thalamotomy,1
+2246,thalassemia,1
+2247,thalidomide,1
+2248,"the focus of the study is to explore the effects of ritalin on postural control in adhd children, during single and dual task conditions.",1
+2249,the push-off test,1
+2250,"the trunk, arms, or legs that would serve as target lesions.",1
+2251,therapeutic compliance,1
+2252,therapeutic enzyme system,1
+2253,therapeutic strategy,1
+2254,therapeutic uses,1
+2255,thioguanine,1
+2256,thiotepa,1
+2257,third molar tooth extraction,1
+2258,third-line therapy,1
+2259,thoracoscopic surgery,1
+2260,thyroid carcinoma,1
+2261,time domain,1
+2262,time interval,1
+2263,titration,1
+2264,tmd,1
+2265,tmj,1
+2266,tobacco,1
+2267,tobacco smoke pollution,1
+2268,tongue,1
+2269,tophus,1
+2270,total hip replacement,1
+2271,total intravenous anesthesia,1
+2272,tourniquet,1
+2273,toverafenib,1
+2274,toxicity,1
+2275,tqs,1
+2276,trabecular bone,1
+2277,traditional chinese medicine,1
+2278,training,1
+2279,tramadol,1
+2280,tranexamic acid,1
+2281,trans femoral amputees balance reactions,1
+2282,transarterial chemoembolisation,1
+2283,transcatheter,1
+2284,transcutaneous auricular neurostimulation,1
+2285,transcutaneous vagus nerve stimulation,1
+2286,transfusion,1
+2287,transition to home,1
+2288,transplantation of autologous cd133 + cells,1
+2289,transplantation of autologous mononuclear,1
+2290,transradial amputee,1
+2291,transtibial,1
+2292,trastuzumab vc-seco-duba,1
+2293,"trastuzumab, lapatinib",1
+2294,trauma,1
+2295,"trauma, nervous system",1
+2296,traumatic brain injury (tbi),1
+2297,treat-to-target,1
+2298,treatment experienced,1
+2299,treatment naive,1
+2300,treatment naïve advanced non-small cell lung cancer (nsclc),1
+2301,treatment-resistant,1
+2302,trientine,1
+2303,trigeminal innervation,1
+2304,trigeminal nerve,1
+2305,tripeptide fee,1
+2306,trop-2,1
+2307,trouble concentrating,1
+2308,tubal cancer,1
+2309,tube feeding,1
+2310,tumor necrosis factor-alpha,1
+2311,tumor vaccine,1
+2312,tumors,1
+2313,tunnel,1
+2314,turkish,1
+2315,turkish classical music,1
+2316,turner's syndrome,1
+2317,twins,1
+2318,"type 2 diabetes, revita system, dmr",1
+2319,type 2 inflammation,1
+2320,type ii braf inhibitor,1
+2321,type ii diabetes mellitus,1
+2322,type viii,1
+2323,typhoid fever,1
+2324,tyrosine kinase inhibitor,1
+2325,uc,1
+2326,ucla-ls,1
+2327,ucsf,1
+2328,ulra-high-risk for psychosis,1
+2329,ultrasound assessment,1
+2330,ultrasound guided nerve block,1
+2331,ultrasound simulation,1
+2332,ultrasound training,1
+2333,"ultrasound, difficult access",1
+2334,"ultrasound, rectus sheath block, children, inguinal hernia",1
+2335,ultrassound,1
+2336,understanding,1
+2337,undetected heart failure,1
+2338,unresectable hepatocellular carcinoma,1
+2339,untreated adult acute lymphoblastic leukemia,1
+2340,untreated hairy cell leukemia,1
+2341,upper gastrointestinal cancers,1
+2342,upper limb,1
+2343,upper limb amputee,1
+2344,upper limb prosthesis user,1
+2345,urate crystals,1
+2346,urate-lowering therapy,1
+2347,urinary,1
+2348,urinary protein,1
+2349,urodynamics,1
+2350,uroflowmetry,1
+2351,urogenital function,1
+2352,urologic diseases,1
+2353,uropathogen,1
+2354,uva1,1
+2355,uvb,1
+2356,vagus nerve,1
+2357,validation studies [pt],1
+2358,validity,1
+2359,valsartan,1
+2360,valvar pulmonary stenosis,1
+2361,valve,1
+2362,vascular endothelial growth factor,1
+2363,vaso occlusive crisis,1
+2364,vasoocclusive crisis (voc),1
+2365,vegfr,1
+2366,venous thrombosis,1
+2367,ventilator-induced lung injury,1
+2368,ventral hernia,1
+2369,vertical scar reduction mammaplasty,1
+2370,vertical section,1
+2371,vertigo,1
+2372,vertigo episodes,1
+2373,vertigo frequency,1
+2374,vestibulo-ocular reflex,1
+2375,video rigid laryngoscope,1
+2376,videoconferencing,1
+2377,videourodynamics,1
+2378,vildagliptin,1
+2379,vincristine,1
+2380,viral persistence,1
+2381,viromed,1
+2382,virtual reality simulation,1
+2383,visual acuity,1
+2384,visually impaired individuals,1
+2385,vitamin d,1
+2386,vitamin d deficiency,1
+2387,vitamin k,1
+2388,vm202,1
+2389,voltage-gated,1
+2390,volunteer,1
+2391,volunteers,1
+2392,vomiting,1
+2393,wagner 1 and 2 ulcer,1
+2394,wake,1
+2395,walking activity,1
+2396,weaning,1
+2397,wearable device,1
+2398,weight reduction,1
+2399,weight training,1
+2400,weightloss and brain function,1
+2401,welfare,1
+2402,well-being,1
+2403,wellbeing,1
+2404,wet cupping - back pain - nslbp - saudi,1
+2405,wharton's jelly,1
+2406,"whf,",1
+2407,whole body mri,1
+2408,whoqol-bref,1
+2409,widening,1
+2410,wisdom teeth extraction,1
+2411,with at least one pair of symmetric lesions on either,1
+2412,women health,1
+2413,woo,1
+2414,wound healing,1
+2415,wounds and injuries,1
+2416,wrinkles,1
+2417,yttrium-90,1
+2418,zinc,1
+2419,øreblue® method,1
+2420,α-synuclein,1

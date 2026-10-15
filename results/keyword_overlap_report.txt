@@ -1,0 +1,51 @@
+CLINICAL TRIAL KEYWORD OVERLAP REPORT
+=======================================================
+Number of trials: 645
+Number of keywords: 2420
+Total unique trial pairs: 207690
+Pairs with positive cosine similarity: 1031
+Pairs with zero cosine similarity: 206659
+Percentage of pairs with shared keywords: 0.50%
+Mean cosine similarity across all pairs: 0.000734
+Mean cosine similarity among positive pairs: 0.147873
+Mean keywords per trial: 4.39
+Median keywords per trial: 4.00
+Minimum keywords per trial: 1
+Maximum keywords per trial: 55
+
+KEYWORD COUNT DISTRIBUTION
+1      92
+2      68
+3     142
+4     103
+5     116
+6      43
+7      25
+8      10
+9      14
+10      9
+11      4
+12      4
+14      3
+15      2
+16      1
+18      2
+20      1
+21      1
+24      2
+44      1
+54      1
+55      1
+
+TOP 10 TRIALS BY NUMBER OF SIMILAR TRIALS
+     nct_id  keyword_count  similar_trial_count  mean_positive_similarity
+NCT05770089             12                   34                  0.093690
+NCT02273024              6                   33                  0.101512
+NCT00484003              6                   31                  0.096708
+NCT05742373              7                   26                  0.110794
+NCT00522262             12                   25                  0.079804
+NCT02013518              5                   25                  0.132246
+NCT01531894              6                   25                  0.099921
+NCT03183960              6                   25                  0.105840
+NCT00794027              3                   23                  0.155746
+NCT07561840              5                   23                  0.115044

@@ -1,0 +1,22 @@
+FREQUENCY-ADJUSTED CONTENT-BASED EVALUATION
+===============================================
+Eligible trials: 553
+Training trials: 442
+Test trials: 111
+Random seed: 42
+Training keyword vocabulary: 1960
+Title weight: 0.4
+Conditions weight: 0.35
+Summary weight: 0.25
+Minimum similarity: 0.05
+Maximum neighbors: 10
+
+precision_at_5   0.0126
+recall_at_5      0.0541
+ndcg_at_5        0.0561
+
+Limitations:
+- Text vectorizers are fitted on training trials only.
+- Keyword-frequency weights use training labels only.
+- Metrics evaluate recovery of recorded keywords, not clinical validity.
+- Field weights and similarity threshold remain exploratory.

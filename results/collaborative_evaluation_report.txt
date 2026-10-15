@@ -1,0 +1,21 @@
+COLLABORATIVE FILTERING EVALUATION
+==========================================
+Eligible trials: 553
+Training trials: 442
+Test trials: 111
+Training vocabulary: 1960
+Training interaction matrix: (442, 1960)
+Test trials with no positive-similarity neighbors: 55
+Neighborhood size: 10
+Evaluation cutoff: 5
+
+Mean metrics:
+Precision@5: 0.0018
+Recall@5: 0.0045
+NDCG@5: 0.0055
+
+Limitations:
+- Metrics measure recovery of hidden recorded keywords.
+- Missing recorded keywords are not treated as negative labels.
+- Sparse keyword interactions can leave trials without neighbors.
+- Results apply to this dataset and split, not clinical validity.

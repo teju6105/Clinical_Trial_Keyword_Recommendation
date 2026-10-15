@@ -1,0 +1,20 @@
+COMPARABLE KEYWORD RECOVERY EVALUATION
+=============================================
+Eligible trials: 553
+Training trials: 442
+Test trials: 111
+Random seed: 42
+Hidden keyword fraction: 30%
+Evaluation cutoff: 5
+
+                    precision_at_5  recall_at_5  ndcg_at_5
+model                                                     
+content_based               0.0180       0.0676     0.0614
+frequency_baseline          0.0054       0.0180     0.0101
+
+Caveats:
+- Both models use the same test trials and hidden keywords.
+- Text vectorizer is fitted on training descriptions only.
+- Missing recorded keywords are not treated as negative labels.
+- Metrics measure recovery of recorded keywords, not clinical validity.
+- Results depend on this initial dataset and random split.

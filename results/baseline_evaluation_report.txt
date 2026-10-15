@@ -1,0 +1,21 @@
+BASELINE KEYWORD RECOVERY EVALUATION
+=============================================
+Eligible trials (at least 2 recorded keywords): 553
+Training trials: 442
+Test trials: 111
+Random seed: 42
+Test fraction: 20%
+Hidden keyword fraction: 30%
+Evaluation cutoff K: 5
+
+Mean test metrics:
+Precision@5: 0.0054
+Recall@5: 0.0180
+NDCG@5: 0.0101
+
+Important limitations:
+- The baseline ranks keywords by frequency in training trials.
+- Missing recorded keywords are not treated as negative labels.
+- This test measures recovery of hidden recorded keywords, not
+  clinical correctness or real-world recommendation quality.
+- This is a baseline, not evidence that a model is clinically useful.

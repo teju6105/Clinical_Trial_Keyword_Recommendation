@@ -1,0 +1,22 @@
+HYBRID KEYWORD RECOMMENDATION REPORT
+===========================================
+Trials with recorded keywords: 645
+Training trials: 516
+Test trials: 129
+TF-IDF vocabulary size: 30000
+Training keyword vocabulary size: 1956
+Content weight: 0.7
+Collaborative weight: 0.3
+Neighborhood size: 10
+
+Method:
+1. Find similar trials using TF-IDF text similarity.
+2. Find neighbors using binary keyword interactions.
+3. Normalize each candidate-score signal.
+4. Combine signals using fixed weights.
+
+Important limitations:
+This is an exploratory run, not a final evaluation.
+Weights must be selected using training/validation data.
+A fixed random split is not a substitute for shared hidden labels.
+Recommendation quality must be evaluated on a consistent test set.
