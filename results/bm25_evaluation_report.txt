@@ -1,0 +1,19 @@
+BM25 KEYWORD RECOVERY EVALUATION
+======================================
+Eligible trials: 553
+Training trials: 442
+Test trials: 111
+Random seed: 42
+Hidden keyword fraction: 30%
+Evaluation cutoff: 5
+
+      precision_at_5  recall_at_5  ndcg_at_5
+bm25          0.0180       0.0676     0.0675
+
+Caveats:
+- BM25 is fitted on training descriptions only.
+- Candidate keywords come only from training trials.
+- Test keywords are hidden from recommendation generation.
+- Missing recorded keywords are not treated as negative labels.
+- Metrics measure recovery of recorded keywords, not clinical validity.
+- Compare with the content-based evaluation using the same split.

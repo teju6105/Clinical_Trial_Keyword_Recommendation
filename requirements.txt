@@ -7,3 +7,5 @@ seaborn
 streamlit
 requests
 jupyter
+
+rank-bm25

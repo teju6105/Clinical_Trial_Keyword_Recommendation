@@ -1,0 +1,19 @@
+BM25-BASED CLINICAL TRIAL KEYWORD RECOMMENDATION
+====================================================
+Trials processed: 1000
+BM25 corpus size: 1000
+Similar trials considered per target: 10
+Maximum recommendations per trial: 10
+
+Method:
+1. Tokenize clinical trial descriptions.
+2. Rank other trials using BM25 relevance scores.
+3. Collect recorded keywords from the highest-ranked trials.
+4. Rank candidate keywords by summed BM25 scores.
+5. Exclude keywords already recorded for the target trial.
+
+Limitations:
+- This is an exploratory recommendation output, not an evaluation.
+- The corpus includes all supplied trial descriptions.
+- Recorded keywords are incomplete for some trials.
+- Recommendations do not establish clinical validity.
