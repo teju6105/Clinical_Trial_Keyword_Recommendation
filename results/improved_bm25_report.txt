@@ -1,0 +1,7 @@
+Improved BM25 Keyword Recommendation Report
+=============================================
+Trials processed: 1000
+Unique keywords: 2554
+Method: BM25 similarity combined with smoothed inverse keyword frequency.
+Note: These are exploratory recommendations, not clinical advice.
+Output: C:\Users\Tejaswini\Documents\Clinical_Trial_Keyword_Recommendation\results\improved_bm25_recommendations.csv

@@ -1,0 +1,19 @@
+IMPROVED BM25 KEYWORD RECOVERY EVALUATION
+============================================
+Eligible trials: 553
+Training trials: 442
+Test trials: 111
+Random seed: 42
+Hidden keyword fraction: 30%
+Evaluation cutoff: 5
+Ranking: BM25 similarity multiplied by training-only keyword IDF.
+
+precision_at_5   0.0180
+recall_at_5      0.0676
+ndcg_at_5        0.0679
+
+Caveats:
+- BM25 and keyword IDF use training trials only.
+- Candidate keywords come only from training trials.
+- Test keywords are hidden from recommendation generation.
+- Metrics measure recovery of recorded keywords, not clinical validity.
